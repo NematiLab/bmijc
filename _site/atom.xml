@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>BMI Journal Club</title>
+ <link href="http://erikreinertsen.com/bmijc/atom.xml" rel="self"/>
+ <link href="http://erikreinertsen.com/bmijc/"/>
+ <updated>2016-03-01T18:50:39-05:00</updated>
+ <id>http://erikreinertsen.com/bmijc</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+
+</feed>

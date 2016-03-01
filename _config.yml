@@ -1,0 +1,14 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               BMI Journal Club
+tagline:             ''
+description:         'Dept. of Biomedical Informatics<br>at Emory University'
+url:                 http://erikreinertsen.com/bmijc
+baseurl:             ''
+
+# Custom vars
+version:             1.0.0
