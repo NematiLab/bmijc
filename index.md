@@ -6,9 +6,11 @@ title: Home
 ## Overview
 <a name="overview"></a>
 
-Welcome to the biomedical informatics journal club.
+Welcome to the journal club for the Department of Biomedical Informatics at Emory University.
 
 We present and critique literature on machine learning, signal processing, and computation in biomedicine.
+
+In the future we may organize some workshops on data analysis techniques.
 
 Attendees include graduate students, postdocs, and faculty from engineering, math/CS, informatics, and medicine.
 
@@ -25,7 +27,7 @@ Emory University School of Medicine, room 153A.
 
 ---
 
-## Schedule
+## Schedule & Papers
 <a name="schedule"></a>
 
 Date | Presenter | Paper & Slides
@@ -33,3 +35,10 @@ Date | Presenter | Paper & Slides
 02/17 | Myles McCrary | [Real-time prediction of mortality, readmission, and length of stay]({{ site.baseurl }} /assets/160217.pdf) [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }} /assets/160217.ppt)
 03/02 | Erik Reinertsen | [Major depressive disorder subtypes to predict long-term course]({{ site.baseurl }} /assets/160302.pdf) [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }} /assets/160302.pdf)
 03/16 | tbd | tbd
+
+---
+
+## Sign up to present
+<a name="signup"></a>
+
+If you'd like to present a paper or teach a methods workshop, please sign up on [our Google Spreadsheet](https://docs.google.com/spreadsheets/d/1HAbPUJqG1CfmrVLARFLbxASiGBQ65ZB3ri1jLS8TTGg/edit#gid=1168976780). Note you must request access to the doc.
