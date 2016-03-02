@@ -5,5 +5,5 @@ permalink:           pretty
 title:               BMI Journal Club
 tagline:
 description:         'Dept. of Biomedical Informatics<br>at Emory University'
-url:                 http://erikreinertsen.com/bmijc
-baseurl:             /
+url:                 http://erikreinertsen.com
+baseurl:             /bmijc
