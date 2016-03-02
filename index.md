@@ -41,4 +41,4 @@ Date | Presenter | Paper & Slides
 ## Sign up to present
 <a name="signup"></a>
 
-If you'd like to present a paper or teach a methods workshop, please sign up on [our Google Spreadsheet](https://docs.google.com/spreadsheets/d/1HAbPUJqG1CfmrVLARFLbxASiGBQ65ZB3ri1jLS8TTGg/edit#gid=1168976780). Note you must request access to the doc.
+If you'd like to present a paper or teach a methods workshop, please sign up on [our Google Spreadsheet](https://docs.google.com/spreadsheets/d/1HAbPUJqG1CfmrVLARFLbxASiGBQ65ZB3ri1jLS8TTGg/edit#gid=1168976780). 
