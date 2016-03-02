@@ -32,8 +32,8 @@ Emory University School of Medicine, room 153A.
 
 Date | Presenter | Paper & Slides
 --- | --- | ---
-02/17 | Myles McCrary | [Real-time prediction of mortality, readmission, and length of stay]({{ site.baseurl }} /assets/160217.pdf) [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }} /assets/160217.ppt)
-03/02 | Erik Reinertsen | [Major depressive disorder subtypes to predict long-term course]({{ site.baseurl }} /assets/160302.pdf) [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }} /assets/160302.pdf)
+02/17 | Myles McCrary | [Real-time prediction of mortality, readmission, and length of stay]({{ site.baseurl }}/assets/160217.pdf) [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/160217.ppt)
+03/02 | Erik Reinertsen | [Major depressive disorder subtypes to predict long-term course]({{ site.baseurl }}/assets/160302.pdf) [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/160302.pdf)
 03/16 | tbd | tbd
 
 ---
