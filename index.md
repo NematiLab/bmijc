@@ -10,9 +10,7 @@ Welcome to the biomedical informatics journal club.
 
 We present and critique literature on machine learning, signal processing, and computation in biomedicine.
 
-Our emphasis is on fundamental methods, techniques, and approaches.
-
-Attendees include graduate students, postdocs, residents, and faculty from engineering, math/CS, informatics, and medicine.
+Attendees include graduate students, postdocs, and faculty from engineering, math/CS, informatics, and medicine.
 
 Sessions are moderated by [Professor Shamim Nemati](http://scholar.harvard.edu/shamim/home).
 
