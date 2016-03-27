@@ -34,7 +34,7 @@ Date | Presenter | Paper & Slides
 --- | --- | ---
 02/17 | Myles McCrary | [Real-time prediction of mortality, readmission, and length of stay]({{ site.baseurl }}/assets/160217_paper.pdf) [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/160217_slides.ppt)
 03/02 | Erik Reinertsen | [Major depressive disorder subtypes to predict long-term course]({{ site.baseurl }}/assets/160302_paper.pdf) [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/160302_slides.pdf)
-03/30 | Ziyi Li | tbd
+03/30 | Ziyi Li | [Using generalized estimating equations for longitudinal data analysis]({{ site.baseurl }}/assets/160330_paper.pdf)
 04/13 | Vineet Tiruvadi | tbd
 04/27 | Jennifer Rha | tbd
 05/11 | Li Tong | tbd
