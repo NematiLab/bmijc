@@ -23,7 +23,7 @@ Sessions are moderated by [Professor Shamim Nemati](http://scholar.harvard.edu/s
 
 Every other Wednesday from 11 am - noon.
 
-Emory University School of Medicine, room 153A.
+Emory University School of Medicine, room 169A.
 
 ---
 
