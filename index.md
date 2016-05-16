@@ -12,7 +12,7 @@ We present and critique literature on machine learning, signal processing, and c
 
 In the future we may organize some workshops on data analysis techniques.
 
-Attendees include graduate students, postdocs, and faculty from engineering, math/CS, informatics, and medicine.
+Attendees include graduate students, postdocs, and faculty from engineering, math/CS, informatics, statistics, and medicine.
 
 Sessions are moderated by [Professor Shamim Nemati](http://scholar.harvard.edu/shamim/home).
 
