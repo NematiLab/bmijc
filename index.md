@@ -36,7 +36,7 @@ Date | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'>
 04/13 | Supreeth Prajwal | [OrderRex: clinical order decision support and outcome predictions by data-mining electronic medical records]({{ site.baseurl }}/assets/160413_paper.pdf)
 04/27 | Jitesh Punjabi | [Using Anchors to Estimate Clinical State without Labelee Data]({{ site.baseurl }}/assets/160427_paper.pdf)
 05/18 | Sahar Harati | [Speech Emotion Recognition Using Deep Neural Network and Extreme Learning Machine]({{ site.baseurl }}/assets/160518_paper.pdf)
-06/22 | Babak Mahmoudi | TBD
+06/22 | Babak Mahmoudi | [The Automatic Neuroscientist: A framework for optimizing experimental design with closed-loop real-time fMRI]({{ site.baseurl }}/assets/160622_paper.pdf)
 
 ---
 
