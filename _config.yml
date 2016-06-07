@@ -3,7 +3,6 @@ permalink:           pretty
 
 # Setup
 title:               BMI Journal Club
-tagline:
-description:         'Dept. of Biomedical Informatics<br>at Emory University'
+description:         '<a href="http://www.bmi.emory.edu/" target="_blank">Biomedical Informatics <br>at Emory University</a>'
 url:                 http://gdclifford.info
 baseurl:    		 /bmijc 

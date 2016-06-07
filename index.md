@@ -6,11 +6,9 @@ title: Home
 ## Overview
 <a name="overview"></a>
 
-Welcome to the journal club for the Department of Biomedical Informatics at Emory University.
+Welcome to the journal club for the [Department of Biomedical Informatics at Emory University](http://www.bmi.emory.edu/).
 
 We present and critique literature on machine learning, signal processing, and computation in biomedicine.
-
-In the future we may organize some workshops on data analysis techniques.
 
 Attendees include graduate students, postdocs, and faculty from engineering, math/CS, informatics, statistics, and medicine.
 
@@ -21,7 +19,7 @@ Sessions are moderated by [Professor Shamim Nemati](http://scholar.harvard.edu/s
 ## When & Where
 <a name="whenwhere"></a>
 
-Every other Wednesday from 11 am - noon.
+Wednesday 11 am - noon (see below for specific dates).
 
 Emory University School of Medicine, room 169A.
 
@@ -38,14 +36,17 @@ Date | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'>
 04/13 | Supreeth Prajwal | [OrderRex: clinical order decision support and outcome predictions by data-mining electronic medical records]({{ site.baseurl }}/assets/160413_paper.pdf)
 04/27 | Jitesh Punjabi | [Using Anchors to Estimate Clinical State without Labelee Data]({{ site.baseurl }}/assets/160427_paper.pdf)
 05/18 | Sahar Harati | [Speech Emotion Recognition Using Deep Neural Network and Extreme Learning Machine]({{ site.baseurl }}/assets/160518_paper.pdf)
+06/22 | Babak Mahmoudi | TBD
 
 ---
 
 ## Join our JC
 <a name="join"></a>
 
-Sign up for our [Google Group mailing list](https://groups.google.com/forum/#!forum/bmijc) to get reminders about our JC.
+Everyone is welcome to attend.
 
-Note *this website* is the gold standard for meeting location, time, dates, etc.
+Sign up for our [Google Group mailing list](https://groups.google.com/forum/#!forum/bmijc) for reminder emails.
 
-If you'd like to present a paper or lead a workshop, [please sign up here](https://docs.google.com/spreadsheets/d/1HAbPUJqG1CfmrVLARFLbxASiGBQ65ZB3ri1jLS8TTGg/edit#gid=1168976780). 
+Note *this website* is the gold standard for meeting locations, times, and dates.
+
+If you'd like to present a paper [please sign up here](https://docs.google.com/spreadsheets/d/1HAbPUJqG1CfmrVLARFLbxASiGBQ65ZB3ri1jLS8TTGg/edit#gid=1168976780). 
