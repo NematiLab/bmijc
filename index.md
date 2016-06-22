@@ -21,7 +21,10 @@ Sessions are moderated by [Professor Shamim Nemati](http://scholar.harvard.edu/s
 
 Wednesday 11 am - noon (see below for specific dates).
 
-Emory University School of Medicine, room 169A.
+Biomedical Informatics conference room<br>
+Psychology and Interdisciplinary Sciences Building<br>
+36 Eagle Row, 5th Floor South<br>
+Atlanta, GA 30322
 
 ---
 
