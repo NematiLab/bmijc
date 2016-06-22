@@ -4,5 +4,5 @@ permalink:           pretty
 # Setup
 title:               BMI Journal Club
 description:         '<a href="http://www.bmi.emory.edu/" target="_blank">Biomedical Informatics <br>at Emory University</a>'
-url:                 http://gdclifford.info
-baseurl:    		 /bmijc 
+url:                 http://nematilab.info
+baseurl:    		 /bmijc
