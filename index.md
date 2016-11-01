@@ -34,8 +34,6 @@ Atlanta, GA 30322
 Date | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | ---
 28 Sep | Erik Reinertsen | [Improving Prediction of Suicide and Accidental Death After Discharge From General Hospitals With Natural Language Processing]({{ site.baseurl }}/assets/160928_paper.pdf) [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/160928_slides.pdf)
-12 Oct | Supreeth Prajwal| [tbd]({{ site.baseurl }}/assets/paper.pdf) [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/slides.ppt)
-26 Oct | Camilo Valderrama | [tbd]({{ site.baseurl }}/assets/paper.pdf) [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/slides.ppt)
 9 Nov | Adriana Vest | tbd
 23 Nov | Rafi Haque | tbd
 7 Dec | Mohammad Reza | tbd
