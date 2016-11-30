@@ -34,7 +34,7 @@ Atlanta, GA 30322
 Date | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | ---
 28 Sep | Erik Reinertsen | [Improving Prediction of Suicide and Accidental Death After Discharge From General Hospitals With Natural Language Processing]({{ site.baseurl }}/assets/160928_paper.pdf) [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/160928_slides.pdf)
-7 Dec | Rafi Haque | [Asynchronous Methods for Deep Reinforcement Learning] ({{ site.baseurl }}/assets/161207.pdf)
+7 Dec | Rafi Haque | [Asynchronous Methods for Deep Reinforcement Learning] ({{ site.baseurl }}/assets/160928_paper.pdf)
 
 ---
 
