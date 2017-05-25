@@ -10,9 +10,9 @@ Welcome to the journal club for the [Department of Biomedical Informatics at Emo
 
 We present and critique literature on machine learning, signal processing, and computation in biomedicine.
 
-Attendees include students, postdocs, and faculty from engineering, math/CS, informatics, statistics, and medicine.
+[//]: # (Attendees include students, postdocs, and faculty from engineering, math/CS, informatics, statistics, and medicine.)
 
-Sessions are moderated by [Professor Shamim Nemati](http://scholar.harvard.edu/shamim/home).
+Sessions are moderated by [Professor Shamim Nemati](http://nematilab.info/people/shamim/index.html).
 
 ---
 
@@ -22,8 +22,8 @@ Sessions are moderated by [Professor Shamim Nemati](http://scholar.harvard.edu/s
 Wednesday 11 am - noon (see below for specific dates).
 
 Biomedical Informatics conference room<br>
-Psychology and Interdisciplinary Sciences Building<br>
-36 Eagle Row, 5th Floor South<br>
+Woodruff Memorial Research Building (WMB)<br>
+101 Woodruff Circle,<br>
 Atlanta, GA 30322
 
 ---
@@ -33,8 +33,11 @@ Atlanta, GA 30322
 
 Date | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | ---
-28 Sep | Erik Reinertsen | [Improving Prediction of Suicide and Accidental Death After Discharge From General Hospitals With Natural Language Processing]({{ site.baseurl }}/assets/160928_paper.pdf) [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/160928_slides.pdf)
-7 Dec | Rafi Haque | [Asynchronous Methods for Deep Reinforcement Learning]({{ site.baseurl }}/assets/161207.pdf)
+05/31 | Supreeth | [Doctor AI: Predicting Clinical Events via Recurrent Neural Networks]({{ site.baseurl }}/assets/170531_paper.pdf)
+
+
+
+
 
 ---
 
@@ -47,7 +50,7 @@ Please spread the word to colleagues; anyone is welcome to attend.
 
 Note *this website* is the gold standard for meeting locations, times, and dates.
 
-If you'd like to present a paper [please sign up here](https://docs.google.com/spreadsheets/d/1HAbPUJqG1CfmrVLARFLbxASiGBQ65ZB3ri1jLS8TTGg/edit#gid=1168976780).
+[//]: # (If you'd like to present a paper [please sign up here](https://docs.google.com/spreadsheets/d/1HAbPUJqG1CfmrVLARFLbxASiGBQ65ZB3ri1jLS8TTGg/edit#gid=1168976780).)
 
 ---
 
@@ -56,10 +59,10 @@ If you'd like to present a paper [please sign up here](https://docs.google.com/s
 
 Date | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | ---
-02/17 | Myles McCrary | [Real-time prediction of mortality, readmission, and length of stay]({{ site.baseurl }}/assets/160217_paper.pdf) [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/160217_slides.ppt)
-03/02 | Erik Reinertsen | [Major depressive disorder subtypes to predict long-term course]({{ site.baseurl }}/assets/160302_paper.pdf) [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/160302_slides.pdf)
-03/30 | Ziyi Li | [Using generalized estimating equations for longitudinal data analysis]({{ site.baseurl }}/assets/160330_paper.pdf) [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/160330_slides.pdf)
-04/13 | Supreeth Prajwal | [OrderRex: clinical order decision support and outcome predictions by data-mining electronic medical records]({{ site.baseurl }}/assets/160413_paper.pdf)
-04/27 | Jitesh Punjabi | [Using Anchors to Estimate Clinical State without Labelee Data]({{ site.baseurl }}/assets/160427_paper.pdf)
-05/18 | Sahar Harati | [Speech Emotion Recognition Using Deep Neural Network and Extreme Learning Machine]({{ site.baseurl }}/assets/160518_paper.pdf)
-06/22 | Babak Mahmoudi | [The Automatic Neuroscientist: A framework for optimizing experimental design with closed-loop real-time fMRI]({{ site.baseurl }}/assets/160622_paper.pdf)
+02/17/16 | Myles McCrary | [Real-time prediction of mortality, readmission, and length of stay]({{ site.baseurl }}/assets/160217_paper.pdf) [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/160217_slides.pptx)
+03/02/16 | Erik Reinertsen | [Major depressive disorder subtypes to predict long-term course]({{ site.baseurl }}/assets/160302_paper.pdf) [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/160302_slides.pdf)
+03/30/16| Ziyi Li | [Using generalized estimating equations for longitudinal data analysis]({{ site.baseurl }}/assets/160330_paper.pdf) [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/160330_slides.pdf)
+04/13/16 | Supreeth Prajwal | [OrderRex: clinical order decision support and outcome predictions by data-mining electronic medical records]({{ site.baseurl }}/assets/160413_paper.pdf)
+04/27/16 | Jitesh Punjabi | [Using Anchors to Estimate Clinical State without Labelee Data]({{ site.baseurl }}/assets/160427_paper.pdf)
+05/18/16 | Sahar Harati | [Speech Emotion Recognition Using Deep Neural Network and Extreme Learning Machine]({{ site.baseurl }}/assets/160518_paper.pdf)
+06/22/16 | Babak Mahmoudi | [The Automatic Neuroscientist: A framework for optimizing experimental design with closed-loop real-time fMRI]({{ site.baseurl }}/assets/160622_paper.pdf)
