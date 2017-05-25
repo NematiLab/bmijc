@@ -44,11 +44,15 @@ Date | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'>
 ## Join our JC
 <a name="join"></a>
 
-Reminder emails are sent out via the BMI departmental listserv.
+Reminder emails are sent out via the BMIJC googlegroup listserv. 
+
+Please enter your name and E-mail address (gmail) in this [spreadsheet](https://docs.google.com/spreadsheets/d/12oPayGPdjDuCjpgzdIi_5d0Dj-p2ev7ibip6olW6eU8/edit?usp=sharing){:target="_blank"} to receive notifications regarding BMIJC.
 
 Please spread the word to colleagues; anyone is welcome to attend.
 
 Note *this website* is the gold standard for meeting locations, times, and dates.
+
+If you would like to
 
 [//]: # (If you'd like to present a paper [please sign up here](https://docs.google.com/spreadsheets/d/1HAbPUJqG1CfmrVLARFLbxASiGBQ65ZB3ri1jLS8TTGg/edit#gid=1168976780).)
 
