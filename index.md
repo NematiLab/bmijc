@@ -52,8 +52,6 @@ Please spread the word to colleagues; anyone is welcome to attend.
 
 Note *this website* is the gold standard for meeting locations, times, and dates.
 
-If you would like to
-
 [//]: # (If you'd like to present a paper [please sign up here](https://docs.google.com/spreadsheets/d/1HAbPUJqG1CfmrVLARFLbxASiGBQ65ZB3ri1jLS8TTGg/edit#gid=1168976780).)
 
 ---
