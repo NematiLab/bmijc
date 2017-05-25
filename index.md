@@ -6,13 +6,13 @@ title: Home
 ## Overview
 <a name="overview"></a>
 
-Welcome to the journal club for the [Department of Biomedical Informatics at Emory University](http://www.bmi.emory.edu/).
+Welcome to the journal club for the [Department of Biomedical Informatics at Emory University](http://www.bmi.emory.edu/){:target="_blank"}.
 
 We present and critique literature on machine learning, signal processing, and computation in biomedicine.
 
 [//]: # (Attendees include students, postdocs, and faculty from engineering, math/CS, informatics, statistics, and medicine.)
 
-Sessions are moderated by [Professor Shamim Nemati](http://nematilab.info/people/shamim/index.html).
+Sessions are moderated by [Professor Shamim Nemati](http://nematilab.info/people/shamim/index.html){:target="_blank"}.
 
 ---
 
@@ -33,7 +33,7 @@ Atlanta, GA 30322
 
 Date | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | ---
-05/31 | Supreeth | [Doctor AI: Predicting Clinical Events via Recurrent Neural Networks]({{ site.baseurl }}/assets/170531_paper.pdf)
+05/31 | Supreeth | [Doctor AI: Predicting Clinical Events via Recurrent Neural Networks]({{ site.baseurl }}/assets/170531_paper.pdf){:target="_blank"}
 
 
 
