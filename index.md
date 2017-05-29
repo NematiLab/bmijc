@@ -33,7 +33,7 @@ Atlanta, GA 30322
 
 Date | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | ---
-05/31 | Supreeth | [Doctor AI: Predicting Clinical Events via Recurrent Neural Networks]({{ site.baseurl }}/assets/170531_paper.pdf){:target="_blank"}
+06/07 | Supreeth | [Doctor AI: Predicting Clinical Events via Recurrent Neural Networks]({{ site.baseurl }}/assets/170531_paper.pdf){:target="_blank"}
 
 
 
