@@ -19,7 +19,7 @@ Sessions are moderated by [Professor Shamim Nemati](http://nematilab.info/people
 ## When & Where
 <a name="whenwhere"></a>
 
-Wednesday 11 am - noon (see below for specific dates).
+Thursday 5pm - 6pm (see below for specific dates).
 
 Biomedical Informatics Classroom<br>
 Woodruff Memorial Research Building (WMB)<br>
@@ -33,7 +33,8 @@ Atlanta, GA 30322
 
 Date | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | ---
-06/07 | Supreeth | [Doctor AI: Predicting Clinical Events via Recurrent Neural Networks]({{ site.baseurl }}/assets/170531_paper.pdf){:target="_blank"} [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/170622_slides.pdf){:target="_blank"}
+06/07 | Supreeth | [Doctor AI: Predicting Clinical Events via Recurrent Neural Networks]({{ site.baseurl }}/assets/170607_paper.pdf){:target="_blank"} [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/170607_slides.pdf){:target="_blank"}
+06/15 | Supreeth | [Nonlinear Inverse Reinforcement Learning with Gaussian Processes]({{ site.baseurl }}/assets/170615_paper.pdf){:target="_blank"}
 06/21 | Supreeth | [Generating Multi-label Discrete Electronic Health Records using Generative Adversarial Networks]({{ site.baseurl }}/assets/170621_paper.pdf){:target="_blank"}
 
 
