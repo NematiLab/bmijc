@@ -21,7 +21,7 @@ Sessions are moderated by [Professor Shamim Nemati](http://nematilab.info/people
 
 Thursday 5pm - 6pm (see below for specific dates).
 
-Biomedical Informatics Classroom<br>
+Biomedical Informatics Conference Room<br>
 Woodruff Memorial Research Building (WMB)<br>
 101 Woodruff Circle,<br>
 Atlanta, GA 30322
