@@ -36,6 +36,8 @@ Date | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'>
 06/07 | Supreeth | [Doctor AI: Predicting Clinical Events via Recurrent Neural Networks]({{ site.baseurl }}/assets/170607_paper.pdf){:target="_blank"} [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/170607_slides.pdf){:target="_blank"}
 06/22 | Supreeth | [Nonlinear Inverse Reinforcement Learning with Gaussian Processes]({{ site.baseurl }}/assets/170615_paper.pdf){:target="_blank"}
 06/29 | Supreeth | [Doubly Robust Estimation of Causal Effects]({{ site.baseurl }}/assets/170629_paper.pdf){:target="_blank"}
+07/06 | Supreeth | [Doubly Robust Policy Evaluation and Learning]({{ site.baseurl }}/assets/070617_paper.pdf){:target="_blank"}
+
 
 
 
