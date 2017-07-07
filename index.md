@@ -37,7 +37,7 @@ Date | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'>
 06/22 | Supreeth | [Nonlinear Inverse Reinforcement Learning with Gaussian Processes]({{ site.baseurl }}/assets/170615_paper.pdf){:target="_blank"}
 06/29 | Supreeth | [Doubly Robust Estimation of Causal Effects]({{ site.baseurl }}/assets/170629_paper.pdf){:target="_blank"}
 07/06 | Supreeth | [Doubly Robust Policy Evaluation and Learning]({{ site.baseurl }}/assets/070617_paper.pdf){:target="_blank"}
-07/06 | Erik Reinertsen | [Transfer Entropy Estimation and Directional Coupling Change Detection in Biomedical Time Series]({{ site.baseurl }}/assets/071317_paper.pdf){:target="_blank"}
+07/13 | Erik Reinertsen | [Transfer Entropy Estimation and Directional Coupling Change Detection in Biomedical Time Series]({{ site.baseurl }}/assets/071317_paper.pdf){:target="_blank"}
 
 
 
