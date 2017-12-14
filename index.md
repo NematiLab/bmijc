@@ -38,7 +38,7 @@ Date | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'>
 06/29 | Supreeth | [Doubly Robust Estimation of Causal Effects]({{ site.baseurl }}/assets/170629_paper.pdf){:target="_blank"}
 07/06 | Supreeth | [Doubly Robust Policy Evaluation and Learning]({{ site.baseurl }}/assets/070617_paper.pdf){:target="_blank"}
 07/13 | Erik Reinertsen | [Transfer Entropy Estimation and Directional Coupling Change Detection in Biomedical Time Series]({{ site.baseurl }}/assets/071317_paper.pdf){:target="_blank"}
-
+12/13 | Supreeth | [Neural Network based clustering using pair-wise constraints]({{ site.baseurl }}/assets/121317_paper.pdf){:target="_blank"}
 
 
 ---
@@ -69,4 +69,4 @@ Date | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'>
 04/13/16 | Supreeth Prajwal | [OrderRex: clinical order decision support and outcome predictions by data-mining electronic medical records]({{ site.baseurl }}/assets/160413_paper.pdf)
 04/27/16 | Jitesh Punjabi | [Using Anchors to Estimate Clinical State without Labelee Data]({{ site.baseurl }}/assets/160427_paper.pdf)
 05/18/16 | Sahar Harati | [Speech Emotion Recognition Using Deep Neural Network and Extreme Learning Machine]({{ site.baseurl }}/assets/160518_paper.pdf)
-06/22/16 | Babak Mahmoudi | [The Automatic Neuroscientist: A framework for optimizing experimental design with closed-loop real-time fMRI]({{ site.baseurl }}/assets/160622_paper.pdf)
+06/22/16 | Mark Connolly | [The Automatic Neuroscientist: A framework for optimizing experimental design with closed-loop real-time fMRI]({{ site.baseurl }}/assets/160622_paper.pdf)
