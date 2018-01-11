@@ -19,8 +19,6 @@ Sessions are moderated by [Professor Shamim Nemati](http://nematilab.info/people
 ## When & Where
 <a name="whenwhere"></a>
 
-Thursday 5pm - 6pm (see below for specific dates).
-
 Biomedical Informatics Conference Room<br>
 Woodruff Memorial Research Building (WMB)<br>
 101 Woodruff Circle,<br>
@@ -31,14 +29,10 @@ Atlanta, GA 30322
 ## Schedule & Papers
 <a name="schedule"></a>
 
-Date | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
---- | --- | ---
-06/07 | Supreeth | [Doctor AI: Predicting Clinical Events via Recurrent Neural Networks]({{ site.baseurl }}/assets/170607_paper.pdf){:target="_blank"} [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/170607_slides.pdf){:target="_blank"}
-06/22 | Supreeth | [Nonlinear Inverse Reinforcement Learning with Gaussian Processes]({{ site.baseurl }}/assets/170615_paper.pdf){:target="_blank"}
-06/29 | Supreeth | [Doubly Robust Estimation of Causal Effects]({{ site.baseurl }}/assets/170629_paper.pdf){:target="_blank"}
-07/06 | Supreeth | [Doubly Robust Policy Evaluation and Learning]({{ site.baseurl }}/assets/070617_paper.pdf){:target="_blank"}
-07/13 | Erik Reinertsen | [Transfer Entropy Estimation and Directional Coupling Change Detection in Biomedical Time Series]({{ site.baseurl }}/assets/071317_paper.pdf){:target="_blank"}
-12/14 | Supreeth | [Neural Network based clustering using pair-wise constraints]({{ site.baseurl }}/assets/121317_paper.pdf){:target="_blank"}
+Date | Time | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
+--- | --- | --- | ---
+01/17 | 4-5pm | Azade | [Maximum Likelihood Estimation]({{ site.baseurl }}/assets/011718_paper.pdf){:target="_blank"}
+
 
 
 ---
@@ -70,3 +64,9 @@ Date | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'>
 04/27/16 | Jitesh Punjabi | [Using Anchors to Estimate Clinical State without Labelee Data]({{ site.baseurl }}/assets/160427_paper.pdf)
 05/18/16 | Sahar Harati | [Speech Emotion Recognition Using Deep Neural Network and Extreme Learning Machine]({{ site.baseurl }}/assets/160518_paper.pdf)
 06/22/16 | Mark Connolly | [The Automatic Neuroscientist: A framework for optimizing experimental design with closed-loop real-time fMRI]({{ site.baseurl }}/assets/160622_paper.pdf)
+06/07/17 | Supreeth | [Doctor AI: Predicting Clinical Events via Recurrent Neural Networks]({{ site.baseurl }}/assets/170607_paper.pdf){:target="_blank"} [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/170607_slides.pdf){:target="_blank"}
+06/22/17 | Supreeth | [Nonlinear Inverse Reinforcement Learning with Gaussian Processes]({{ site.baseurl }}/assets/170615_paper.pdf){:target="_blank"}
+06/29/17 | Supreeth | [Doubly Robust Estimation of Causal Effects]({{ site.baseurl }}/assets/170629_paper.pdf){:target="_blank"}
+07/06/17 | Supreeth | [Doubly Robust Policy Evaluation and Learning]({{ site.baseurl }}/assets/070617_paper.pdf){:target="_blank"}
+07/13/17 | Erik Reinertsen | [Transfer Entropy Estimation and Directional Coupling Change Detection in Biomedical Time Series]({{ site.baseurl }}/assets/071317_paper.pdf){:target="_blank"}
+12/14/17 | Supreeth | [Neural Network based clustering using pair-wise constraints]({{ site.baseurl }}/assets/121317_paper.pdf){:target="_blank"}
