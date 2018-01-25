@@ -31,7 +31,8 @@ Atlanta, GA 30322
 
 Date | Time | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | ---
-01/24 | 4-5pm | Azade | [Maximum Likelihood Estimation]({{ site.baseurl }}/assets/011718_paper.pdf){:target="_blank"}
+01/24 | 4-5pm | Azade | [Maximum Likelihood Estimation]({{ site.baseurl }}/assets/011718_paper.pdf){:target="_blank"}, ({{ site.baseurl }}/assets/weibull_cox.pdf){:target="_blank"}
+01/31 | 4-5pm | Supreeth | [Learning to cluster in order to transfer across domains and tasks]({{ site.baseurl }}/assets/013118_paper.pdf){:target="_blank"}
 
 
 
