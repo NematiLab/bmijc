@@ -31,7 +31,7 @@ Atlanta, GA 30322
 
 Date | Time    | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | ---
-02/14 | 4pm | Supreeth | [Scalable and accurate deep learning for Electronic Health Records]({{ site.baseurl }}/assets/021418_paper.pdf){:target="_blank"}
+02/21 | 4pm | Supreeth | [Scalable and accurate deep learning for Electronic Health Records]({{ site.baseurl }}/assets/021418_paper.pdf){:target="_blank"}
 01/31 | 4pm | Supreeth | [Learning to cluster in order to transfer across domains and tasks]({{ site.baseurl }}/assets/013118_paper.pdf){:target="_blank"}
 01/24 | 4pm | Azade | [Maximum Likelihood Estimation]({{ site.baseurl }}/assets/011718_paper.pdf){:target="_blank"}, [Weibull cox proportional hazards model]({{ site.baseurl }}/assets/weibull_cox.pdf){:target="_blank"}
 
