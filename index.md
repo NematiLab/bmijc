@@ -31,16 +31,15 @@ Atlanta, GA 30322
 
 Date | Time    | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | ---
-03/07 | 4pm | Supreeth | [Scalable and accurate deep learning for Electronic Health Records]({{ site.baseurl }}/assets/021418_paper.pdf){:target="_blank"}
-01/31 | 4pm | Supreeth | [Learning to cluster in order to transfer across domains and tasks]({{ site.baseurl }}/assets/013118_paper.pdf){:target="_blank"}
-01/24 | 4pm | Azade | [Maximum Likelihood Estimation]({{ site.baseurl }}/assets/011718_paper.pdf){:target="_blank"}, [Weibull cox proportional hazards model]({{ site.baseurl }}/assets/weibull_cox.pdf){:target="_blank"}
+09/12 | 3pm | Russell | [The reusable holdout: Preserving validity in adaptive data analysis]({{ site.baseurl }}/assets/091218_paper.pdf){:target="_blank"}
+
 
 ---
 
 ## Join our JC
 <a name="join"></a>
 
-Reminder emails are sent out via the BMIJC googlegroup listserv. 
+Reminder emails are sent out via the BMIJC googlegroup listserv.
 
 Please enter your name and E-mail address (gmail) in this [spreadsheet](https://docs.google.com/spreadsheets/d/12oPayGPdjDuCjpgzdIi_5d0Dj-p2ev7ibip6olW6eU8/edit?usp=sharing){:target="_blank"} to receive notifications regarding BMIJC.
 
@@ -57,6 +56,9 @@ Note *this website* is the gold standard for meeting locations, times, and dates
 
 Date | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | ---
+03/07 | 4pm | Supreeth | [Scalable and accurate deep learning for Electronic Health Records]({{ site.baseurl }}/assets/021418_paper.pdf){:target="_blank"}
+01/31 | 4pm | Supreeth | [Learning to cluster in order to transfer across domains and tasks]({{ site.baseurl }}/assets/013118_paper.pdf){:target="_blank"}
+01/24 | 4pm | Azade | [Maximum Likelihood Estimation]({{ site.baseurl }}/assets/011718_paper.pdf){:target="_blank"}, [Weibull cox proportional hazards model]({{ site.baseurl }}/assets/weibull_cox.pdf){:target="_blank"}
 12/14/17 | Supreeth | [Neural Network based clustering using pair-wise constraints]({{ site.baseurl }}/assets/121317_paper.pdf){:target="_blank"}
 07/13/17 | Erik Reinertsen | [Transfer Entropy Estimation and Directional Coupling Change Detection in Biomedical Time Series]({{ site.baseurl }}/assets/071317_paper.pdf){:target="_blank"}
 07/06/17 | Supreeth | [Doubly Robust Policy Evaluation and Learning]({{ site.baseurl }}/assets/070617_paper.pdf){:target="_blank"}
