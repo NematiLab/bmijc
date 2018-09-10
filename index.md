@@ -31,7 +31,7 @@ Atlanta, GA 30322
 
 Date | Time    | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | ---
-09/12 | 3pm | Russell | [The reusable holdout: Preserving validity in adaptive data analysis]({{ site.baseurl }}/assets/091218_paper.pdf){:target="_blank"}
+09/12 | 3pm | Russell | [The reusable holdout: Preserving validity in adaptive data analysis]({{ site.baseurl }}/assets/091218_paper.pdf){:target="_blank"} [Supplementary Materials]({{ site.baseurl }}/assets/091218_supplement.pdf){:target="_blank"}
 
 
 ---
