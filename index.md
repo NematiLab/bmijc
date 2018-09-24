@@ -27,18 +27,16 @@ Atlanta, GA 30322
 ---
 
 ## Schedule & Papers
-<a name="schedule"></a>
+<a name="schedule1"></a>
 
 Date | Time    | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | ---
-09/12 | 3pm | Russell | [Control of Confounding and Reporting of Results in Causal Inference Studies: Guidance for
-Authors from Editors of Respiratory, Sleep, and Critical Care Journals]({{ site.baseurl }}/assets/0912182_paper.pdf){:target="_blank"}
-
+09/12 | 3pm | Russell | [The reusable holdout: Preserving validity in adaptive data analysis]({{ site.baseurl }}/assets/091218_paper.pdf){:target="_blank"} [Supplementary Materials]({{ site.baseurl }}/assets/091218_supplement.pdf){:target="_blank"}
 
 ---
 
 ## SEPSIS Grand Rounds
-<a name="schedule"></a>
+<a name="schedule2"></a>
 
 Date | Time    | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | ---
