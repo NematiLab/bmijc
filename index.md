@@ -40,7 +40,7 @@ Date | Time    | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powe
 
 Date | Time    | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | ---
-09/23 | 11am | Chris | [Control of Confounding and Reporting of Results in Causal Inference Studies]({{ site.baseurl }}/assets/0912182_paper.pdf){:target="_blank"} [Examples of DAG]({{ site.baseurl }}/assets/DAG_Sepsis_mortality.pdf){:target="_blank"} [Strobe Statement](https://www.strobe-statement.org/index.php?id=available-checklists){:target="_blank"}
+09/23 | 11am | Chris | [Control of Confounding and Reporting of Results in Causal Inference Studies]({{ site.baseurl }}/assets/0912182_paper.pdf){:target="_blank"} [Examples of DAG]({{ site.baseurl }}/assets/DAG_Sepsis_mortality.pdf){:target="_blank"} [Strobe Statement](https://www.strobe-statement.org/index.php?id=available-checklists){:target="_blank"}[Strobe Paper](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0040297){:target="_blank"}
 
 ---
 
