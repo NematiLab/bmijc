@@ -40,7 +40,7 @@ Date | Time    | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powe
 
 Date | Time    | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | ---
-09/23 | 11am | Chris | [The reusable holdout: Preserving validity in adaptive data analysis]({{ site.baseurl }}/assets/091218_paper.pdf){:target="_blank"} [Examples of DAG]({{ site.baseurl }}/assets/DAG_Sepsis_mortality.pdf){:target="_blank"}
+09/23 | 11am | Chris | [Control of Confounding and Reporting of Results in Causal Inference Studies]({{ site.baseurl }}/assets/0912182_paper.pdf){:target="_blank"} [Examples of DAG]({{ site.baseurl }}/assets/DAG_Sepsis_mortality.pdf){:target="_blank"}
 
 
 ---
