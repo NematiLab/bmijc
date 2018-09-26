@@ -31,6 +31,7 @@ Atlanta, GA 30322
 
 Date | Time    | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | ---
+
 10/03 | TBD | Supreeth | [Addressing Appearance Change in Outdoor Robotics with Adversarial Domain Adaptation]({{ site.baseurl }}/assets/tbd_paper.pdf){:target="_blank"}
 09/28 | 11am | Supreeth | [Estimating attributable fraction of mortality from sepsis to inform
 clinical trials]({{ site.baseurl }}/assets/092818_paper.pdf){:target="_blank"}[Supplementary Materials]({{ site.baseurl }}/assets/092818_supplement.pdf){:target="_blank"}
