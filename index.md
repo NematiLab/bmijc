@@ -31,9 +31,10 @@ Atlanta, GA 30322
 
 Date | Time    | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | ---
+01/09 | 3pm | Russell | [Evaluating a New Marker for Risk Prediction Using the Test Tradeoff: An Update]({{ site.baseurl }}/assets/010919_paper01.pdf){:target="_blank"} [Decision Analysis for the Evaluation of Diagnostic Tests, Prediction Models, and Molecular Markers]({{ site.baseurl }}/assets/010919_paper02.pdf){:target="_blank"} [Decision Analysis]({{ site.baseurl }}/assets/010919_paper03.pdf){:target="_blank"}
 12/05 | 4pm | Russell | [The challenge of implementing AI models in the ICU]({{ site.baseurl }}/assets/120518_paper2.pdf){:target="_blank"} [To Trust Or Not To Trust A Classifier]({{ site.baseurl }}/assets/120518_paper1.pdf){:target="_blank"} [Supplement]({{ site.baseurl }}/assets/120518_paper1supplement.pdf){:target="_blank"}
 11/16 | 2pm | Russell/Supreeth | [Relational inductive biases, deep learning, and graph networks]({{ site.baseurl }}/assets/111618_paper.pdf){:target="_blank"}
-10/24 | 1pm | Russell | [The Artificial Intelligence Clinician learns optinmal treatment strategies for sepsis in intensive care]({{ site.baseurl }}/assets/102418_paper.pdf){:target="_blank"} [Supplementary Materials]({{ site.baseurl }}/assets/102418_supplement.pdf){:target="_blank"}
+10/24 | 1pm | Russell | [The Artificial Intelligence Clinician learns optimal treatment strategies for sepsis in intensive care]({{ site.baseurl }}/assets/102418_paper.pdf){:target="_blank"} [Supplementary Materials]({{ site.baseurl }}/assets/102418_supplement.pdf){:target="_blank"}
 10/03 | 1pm | Supreeth | [Addressing Appearance Change in Outdoor Robotics with Adversarial Domain Adaptation]({{ site.baseurl }}/assets/tbd_paper.pdf){:target="_blank"} 
 09/28 | 11am | Supreeth | [Estimating attributable fraction of mortality from sepsis to inform clinical trials]({{ site.baseurl }}/assets/092818_paper.pdf){:target="_blank"} [Supplementary Materials]({{ site.baseurl }}/assets/092818_supplement.pdf){:target="_blank"}
 09/12 | 3pm | Russell | [The reusable holdout: Preserving validity in adaptive data analysis]({{ site.baseurl }}/assets/091218_paper.pdf){:target="_blank"} [Supplementary Materials]({{ site.baseurl }}/assets/091218_supplement.pdf){:target="_blank"}
