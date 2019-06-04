@@ -20,9 +20,9 @@ Sessions are moderated by [Professor Shamim Nemati](http://nematilab.info/people
 <a name="whenwhere"></a>
 
 Biomedical Informatics Conference Room<br>
-Woodruff Memorial Research Building (WMB)<br>
-101 Woodruff Circle,<br>
-Atlanta, GA 30322
+Altman Clinical and Translational Research Institute (ACTRI)<br>
+9452 Medical Center Drive<br>
+La Jolla, CA - 92093
 
 ---
 
