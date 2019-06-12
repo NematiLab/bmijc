@@ -31,17 +31,12 @@ La Jolla, CA - 92093
 
 Date | Time    | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | ---
+06/20 | 11am | Supreeth | [Derivation, Validation, and Potential Treatment Implications of Novel Clinical Phenotypes for Sepsis]({{ site.baseurl }}/assets/062019_paper.pdf){:target="_blank"}
 05/17 | 3pm | Supreeth | [Electronic health record-based clinical decision support alert for severe sepsis: a randomised evaluation]({{ site.baseurl }}/assets/051719_paper01.pdf){:target="_blank"} and [Objecting to experiments that compare two unobjectionable policies or treatments]({{ site.baseurl }}/assets/051719_paper02.pdf){:target="_blank"}
 02/25 | 3pm | Matt | [Temporal Convolutional Networks and Dynamic Time Warping can Drastically Improve the Early Prediction of Sepsis]({{ site.baseurl }}/assets/022519_paper.pdf){:target="_blank"}
 02/11 | 3pm | Russell | [Sepsis as a model for improving diagnosis]({{ site.baseurl }}/assets/021119_paper1.pdf){:target="_blank"} and [Evaluating the impact of a computerized surveillance algorithm and decision support system on sepsis mortality]({{ site.baseurl }}/assets/021119_paper2.pdf){:target="_blank"}
 02/07 | 4pm | Supreeth | [Exponentially Weighted Imitation Learning for Batched Historical Data]({{ site.baseurl }}/assets/012819_paper.pdf){:target="_blank"}
 01/09 | 3pm | Russell | [Evaluating a New Marker for Risk Prediction Using the Test Tradeoff: An Update]({{ site.baseurl }}/assets/010919_paper01.pdf){:target="_blank"} [Decision Analysis for the Evaluation of Diagnostic Tests, Prediction Models, and Molecular Markers]({{ site.baseurl }}/assets/010919_paper02.pdf){:target="_blank"} [Decision Analysis]({{ site.baseurl }}/assets/010919_paper03.pdf){:target="_blank"}
-12/05 | 4pm | Russell | [The challenge of implementing AI models in the ICU]({{ site.baseurl }}/assets/120518_paper2.pdf){:target="_blank"} [To Trust Or Not To Trust A Classifier]({{ site.baseurl }}/assets/120518_paper1.pdf){:target="_blank"} [Supplement]({{ site.baseurl }}/assets/120518_paper1supplement.pdf){:target="_blank"}
-11/16 | 2pm | Russell/Supreeth | [Relational inductive biases, deep learning, and graph networks]({{ site.baseurl }}/assets/111618_paper.pdf){:target="_blank"}
-10/24 | 1pm | Russell | [The Artificial Intelligence Clinician learns optimal treatment strategies for sepsis in intensive care]({{ site.baseurl }}/assets/102418_paper.pdf){:target="_blank"} [Supplementary Materials]({{ site.baseurl }}/assets/102418_supplement.pdf){:target="_blank"}
-10/03 | 1pm | Supreeth | [Addressing Appearance Change in Outdoor Robotics with Adversarial Domain Adaptation]({{ site.baseurl }}/assets/tbd_paper.pdf){:target="_blank"} 
-09/28 | 11am | Supreeth | [Estimating attributable fraction of mortality from sepsis to inform clinical trials]({{ site.baseurl }}/assets/092818_paper.pdf){:target="_blank"} [Supplementary Materials]({{ site.baseurl }}/assets/092818_supplement.pdf){:target="_blank"}
-09/12 | 3pm | Russell | [The reusable holdout: Preserving validity in adaptive data analysis]({{ site.baseurl }}/assets/091218_paper.pdf){:target="_blank"} [Supplementary Materials]({{ site.baseurl }}/assets/091218_supplement.pdf){:target="_blank"}
 
 ---
 
@@ -74,9 +69,15 @@ Note *this website* is the gold standard for meeting locations, times, and dates
 
 Date | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | ---
-03/07 | Supreeth | [Scalable and accurate deep learning for Electronic Health Records]({{ site.baseurl }}/assets/021418_paper.pdf){:target="_blank"}
-01/31 | Supreeth | [Learning to cluster in order to transfer across domains and tasks]({{ site.baseurl }}/assets/013118_paper.pdf){:target="_blank"}
-01/24 | Azade | [Maximum Likelihood Estimation]({{ site.baseurl }}/assets/011718_paper.pdf){:target="_blank"}, [Weibull cox proportional hazards model]({{ site.baseurl }}/assets/weibull_cox.pdf){:target="_blank"}
+12/05/18 | Russell | [The challenge of implementing AI models in the ICU]({{ site.baseurl }}/assets/120518_paper2.pdf){:target="_blank"} [To Trust Or Not To Trust A Classifier]({{ site.baseurl }}/assets/120518_paper1.pdf){:target="_blank"} [Supplement]({{ site.baseurl }}/assets/120518_paper1supplement.pdf){:target="_blank"}
+11/16/18 | Russell/Supreeth | [Relational inductive biases, deep learning, and graph networks]({{ site.baseurl }}/assets/111618_paper.pdf){:target="_blank"}
+10/24/18 | Russell | [The Artificial Intelligence Clinician learns optimal treatment strategies for sepsis in intensive care]({{ site.baseurl }}/assets/102418_paper.pdf){:target="_blank"} [Supplementary Materials]({{ site.baseurl }}/assets/102418_supplement.pdf){:target="_blank"}
+10/03/18 | Supreeth | [Addressing Appearance Change in Outdoor Robotics with Adversarial Domain Adaptation]({{ site.baseurl }}/assets/tbd_paper.pdf){:target="_blank"} 
+09/28/18 | Supreeth | [Estimating attributable fraction of mortality from sepsis to inform clinical trials]({{ site.baseurl }}/assets/092818_paper.pdf){:target="_blank"} [Supplementary Materials]({{ site.baseurl }}/assets/092818_supplement.pdf){:target="_blank"}
+09/12/18 | Russell | [The reusable holdout: Preserving validity in adaptive data analysis]({{ site.baseurl }}/assets/091218_paper.pdf){:target="_blank"} [Supplementary Materials]({{ site.baseurl }}/assets/091218_supplement.pdf){:target="_blank"}
+03/07/18 | Supreeth | [Scalable and accurate deep learning for Electronic Health Records]({{ site.baseurl }}/assets/021418_paper.pdf){:target="_blank"}
+01/31/19 | Supreeth | [Learning to cluster in order to transfer across domains and tasks]({{ site.baseurl }}/assets/013118_paper.pdf){:target="_blank"}
+01/24/18 | Azade | [Maximum Likelihood Estimation]({{ site.baseurl }}/assets/011718_paper.pdf){:target="_blank"}, [Weibull cox proportional hazards model]({{ site.baseurl }}/assets/weibull_cox.pdf){:target="_blank"}
 12/14/17 | Supreeth | [Neural Network based clustering using pair-wise constraints]({{ site.baseurl }}/assets/121317_paper.pdf){:target="_blank"}
 07/13/17 | Erik Reinertsen | [Transfer Entropy Estimation and Directional Coupling Change Detection in Biomedical Time Series]({{ site.baseurl }}/assets/071317_paper.pdf){:target="_blank"}
 07/06/17 | Supreeth | [Doubly Robust Policy Evaluation and Learning]({{ site.baseurl }}/assets/070617_paper.pdf){:target="_blank"}
