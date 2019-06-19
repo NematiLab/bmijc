@@ -19,7 +19,7 @@ Sessions are moderated by [Professor Shamim Nemati](http://nematilab.info/people
 ## Where
 <a name="whenwhere"></a>
 
-Biomedical Informatics Conference Room<br>
+Conference Room 2W-516 (second floor, West) <br>
 Altman Clinical and Translational Research Institute (ACTRI)<br>
 9452 Medical Center Drive<br>
 La Jolla, CA - 92093
