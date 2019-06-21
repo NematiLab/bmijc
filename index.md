@@ -21,7 +21,7 @@ Sessions are moderated by [Professor Shamim Nemati](http://nematilab.info/people
 
 Altman Clinical and Translational Research Institute (ACTRI)<br>
 9452 Medical Center Drive<br>
-La Jolla, CA - 92093
+La Jolla, CA - 92093<br>
 (For room number, see below)<br>
 ---
 
@@ -29,6 +29,7 @@ La Jolla, CA - 92093
 <a name="schedule1"></a>
 
 Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
+
 --- | --- | --- | --- | ---
 
 06/20 | 11am | 2W-516 | Supreeth | [Derivation, Validation, and Potential Treatment Implications of Novel Clinical Phenotypes for Sepsis]({{ site.baseurl }}/assets/062019_paper.pdf){:target="_blank"} and [Supplementary Material]({{ site.baseurl }}/assets/062019_supplementary.pdf){:target="_blank"}
