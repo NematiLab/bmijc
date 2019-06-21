@@ -19,24 +19,24 @@ Sessions are moderated by [Professor Shamim Nemati](http://nematilab.info/people
 ## Where
 <a name="whenwhere"></a>
 
-Conference Room 2W-516 (second floor, West) <br>
 Altman Clinical and Translational Research Institute (ACTRI)<br>
 9452 Medical Center Drive<br>
 La Jolla, CA - 92093
-
+(For room number, see below)<br>
 ---
 
 ## Schedule & Papers
 <a name="schedule1"></a>
 
-Date | Time    | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
---- | --- | --- | ---
-06/20 | 11am | Supreeth | [Derivation, Validation, and Potential Treatment Implications of Novel Clinical Phenotypes for Sepsis]({{ site.baseurl }}/assets/062019_paper.pdf){:target="_blank"} and [Supplementary Material]({{ site.baseurl }}/assets/062019_supplementary.pdf){:target="_blank"}
-05/17 | 3pm | Supreeth | [Electronic health record-based clinical decision support alert for severe sepsis: a randomised evaluation]({{ site.baseurl }}/assets/051719_paper01.pdf){:target="_blank"} and [Objecting to experiments that compare two unobjectionable policies or treatments]({{ site.baseurl }}/assets/051719_paper02.pdf){:target="_blank"}
-02/25 | 3pm | Matt | [Temporal Convolutional Networks and Dynamic Time Warping can Drastically Improve the Early Prediction of Sepsis]({{ site.baseurl }}/assets/022519_paper.pdf){:target="_blank"}
-02/11 | 3pm | Russell | [Sepsis as a model for improving diagnosis]({{ site.baseurl }}/assets/021119_paper1.pdf){:target="_blank"} and [Evaluating the impact of a computerized surveillance algorithm and decision support system on sepsis mortality]({{ site.baseurl }}/assets/021119_paper2.pdf){:target="_blank"}
-02/07 | 4pm | Supreeth | [Exponentially Weighted Imitation Learning for Batched Historical Data]({{ site.baseurl }}/assets/012819_paper.pdf){:target="_blank"}
-01/09 | 3pm | Russell | [Evaluating a New Marker for Risk Prediction Using the Test Tradeoff: An Update]({{ site.baseurl }}/assets/010919_paper01.pdf){:target="_blank"} [Decision Analysis for the Evaluation of Diagnostic Tests, Prediction Models, and Molecular Markers]({{ site.baseurl }}/assets/010919_paper02.pdf){:target="_blank"} [Decision Analysis]({{ site.baseurl }}/assets/010919_paper03.pdf){:target="_blank"}
+Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
+--- | --- | --- | --- | ---
+
+06/20 | 11am | 2W-516 | Supreeth | [Derivation, Validation, and Potential Treatment Implications of Novel Clinical Phenotypes for Sepsis]({{ site.baseurl }}/assets/062019_paper.pdf){:target="_blank"} and [Supplementary Material]({{ site.baseurl }}/assets/062019_supplementary.pdf){:target="_blank"}
+05/17 | 3pm | - | Supreeth | [Electronic health record-based clinical decision support alert for severe sepsis: a randomised evaluation]({{ site.baseurl }}/assets/051719_paper01.pdf){:target="_blank"} and [Objecting to experiments that compare two unobjectionable policies or treatments]({{ site.baseurl }}/assets/051719_paper02.pdf){:target="_blank"}
+02/25 | 3pm | - | Matt | [Temporal Convolutional Networks and Dynamic Time Warping can Drastically Improve the Early Prediction of Sepsis]({{ site.baseurl }}/assets/022519_paper.pdf){:target="_blank"}
+02/11 | 3pm | - | Russell | [Sepsis as a model for improving diagnosis]({{ site.baseurl }}/assets/021119_paper1.pdf){:target="_blank"} and [Evaluating the impact of a computerized surveillance algorithm and decision support system on sepsis mortality]({{ site.baseurl }}/assets/021119_paper2.pdf){:target="_blank"}
+02/07 | 4pm | - | Supreeth | [Exponentially Weighted Imitation Learning for Batched Historical Data]({{ site.baseurl }}/assets/012819_paper.pdf){:target="_blank"}
+01/09 | 3pm | - | Russell | [Evaluating a New Marker for Risk Prediction Using the Test Tradeoff: An Update]({{ site.baseurl }}/assets/010919_paper01.pdf){:target="_blank"} [Decision Analysis for the Evaluation of Diagnostic Tests, Prediction Models, and Molecular Markers]({{ site.baseurl }}/assets/010919_paper02.pdf){:target="_blank"} [Decision Analysis]({{ site.baseurl }}/assets/010919_paper03.pdf){:target="_blank"}
 
 ---
 
