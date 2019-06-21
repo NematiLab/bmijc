@@ -31,7 +31,7 @@ La Jolla, CA - 92093
 
 Date | Time    | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | ---
-06/20 | 11am | Supreeth | [Derivation, Validation, and Potential Treatment Implications of Novel Clinical Phenotypes for Sepsis]({{ site.baseurl }}/assets/062019_paper.pdf){:target="_blank"}
+06/20 | 11am | Supreeth | [Derivation, Validation, and Potential Treatment Implications of Novel Clinical Phenotypes for Sepsis]({{ site.baseurl }}/assets/062019_paper.pdf){:target="_blank"} and [Supplementary Material]({{ site.baseurl }}/assets/062019_supplementary.pdf){:target="_blank"}
 05/17 | 3pm | Supreeth | [Electronic health record-based clinical decision support alert for severe sepsis: a randomised evaluation]({{ site.baseurl }}/assets/051719_paper01.pdf){:target="_blank"} and [Objecting to experiments that compare two unobjectionable policies or treatments]({{ site.baseurl }}/assets/051719_paper02.pdf){:target="_blank"}
 02/25 | 3pm | Matt | [Temporal Convolutional Networks and Dynamic Time Warping can Drastically Improve the Early Prediction of Sepsis]({{ site.baseurl }}/assets/022519_paper.pdf){:target="_blank"}
 02/11 | 3pm | Russell | [Sepsis as a model for improving diagnosis]({{ site.baseurl }}/assets/021119_paper1.pdf){:target="_blank"} and [Evaluating the impact of a computerized surveillance algorithm and decision support system on sepsis mortality]({{ site.baseurl }}/assets/021119_paper2.pdf){:target="_blank"}
