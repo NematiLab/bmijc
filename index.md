@@ -65,7 +65,7 @@ Note *this website* is the gold standard for meeting locations, times, and dates
 
 ---
 
-## ML method1 papers
+## ML method papers
 <a name="ml"></a>
 
 [Similarity of Neural Network Representations Revisited](https://arxiv.org/abs/1905.00414){:target="_blank"}
