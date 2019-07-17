@@ -69,7 +69,8 @@ Note *this website* is the gold standard for meeting locations, times, and dates
 <a name="previous"></a>
 
 [Similarity of Neural Network Representations Revisited](https://arxiv.org/abs/1905.00414){:target="_blank"}
-[Overcoming catastrophic forgetting in neural networkks](https://www.pnas.org/content/114/13/3521){:target="_blank"} [Blog post](https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/){:target="_blank"}
+
+[Overcoming catastrophic forgetting in neural networks](https://www.pnas.org/content/114/13/3521){:target="_blank"} [Blog post](https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/){:target="_blank"}
 
 ---
 
