@@ -30,8 +30,8 @@ La Jolla, CA - 92093<br>
 
 Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | --- | ---
-08/15 | 1pm | 2W-516 | Jejo Koola |  [A clinically applicable approach to continuous prediction of future acute kidney injury]({{ site.baseurl }}/assets/081519_paper.pdf){:target="_blank"}
-07/12 | 11am | 4E-111 | Gabriel |  [Personal clinical history predicts antibiotic resistance of urinary tract infections]({{ site.baseurl }}/assets/071219_paper.pdf){:target="_blank"}
+08/15 | 1pm | 2W-516 | Jejo Koola |  [A clinically applicable approach to continuous prediction of future acute kidney injury]({{ site.baseurl }}/assets/081519_paper.pdf){:target="_blank"} [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/081519_slides.pptx)
+07/12 | 11am | 4E-111 | Gabriel |  [Personal clinical history predicts antibiotic resistance of urinary tract infections]({{ site.baseurl }}/assets/071219_paper.pdf){:target="_blank"} [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/071219_slides.pptx)
 07/02 | 2pm | 2W-516 | Supreeth |  Derivation, Validation, and Potential Treatment Implications of Novel Clinical Phenotypes for Sepsis - Continued
 06/20 | 11am | 2W-516 | Supreeth | [Derivation, Validation, and Potential Treatment Implications of Novel Clinical Phenotypes for Sepsis]({{ site.baseurl }}/assets/062019_paper.pdf){:target="_blank"} and [Supplementary Material]({{ site.baseurl }}/assets/062019_supplementary.pdf){:target="_blank"}
 05/17 | 3pm | - | Supreeth | [Electronic health record-based clinical decision support alert for severe sepsis: a randomised evaluation]({{ site.baseurl }}/assets/051719_paper01.pdf){:target="_blank"} and [Objecting to experiments that compare two unobjectionable policies or treatments]({{ site.baseurl }}/assets/051719_paper02.pdf){:target="_blank"}
