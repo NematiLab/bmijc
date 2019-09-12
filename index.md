@@ -57,7 +57,7 @@ Date | Time    | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powe
 
 Reminder emails are sent out via the BMIJC googlegroup listserv.
 
-Please enter your name and E-mail address (gmail) in this [spreadsheet](https://docs.google.com/spreadsheets/d/12oPayGPdjDuCjpgzdIi_5d0Dj-p2ev7ibip6olW6eU8/edit?usp=sharing){:target="_blank"} to receive notifications regarding BMIJC.
+Please enter your name and E-mail address in this [spreadsheet](https://docs.google.com/spreadsheets/d/12oPayGPdjDuCjpgzdIi_5d0Dj-p2ev7ibip6olW6eU8/edit?usp=sharing){:target="_blank"} to receive notifications regarding BMIJC.
 
 Please spread the word to colleagues; anyone is welcome to attend.
 
