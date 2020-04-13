@@ -30,6 +30,7 @@ La Jolla, CA - 92093<br>
 
 Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | --- | ---
+04/13 | 3pm | - | - | [PROBAST: A Tool to Assess Risk of Bias and Applicability of Prediction Model Studies: Explanation and Elaboration]({{ site.baseurl }}/assets/041320_paper01.pdf){:target="_blank"} [A Harmonized Data Quality Assessment Terminology and Framework for the Secondary Use of Electronic Health Record Data]({{ site.baseurl }}/assets/041320_paper02.pdf){:target="_blank"}
 09/12 | 11am | 2W-516 | Supreeth | [On the interpretability of machine learningbased model for predicting hypertension]({{ site.baseurl }}/assets/091219_paper.pdf){:target="_blank"} Extra: [Blog post on LIME](https://homes.cs.washington.edu/~marcotcr/blog/lime/){:target="_blank"}, [Blog post on Shapley Values](https://towardsdatascience.com/one-feature-attribution-method-to-supposedly-rule-them-all-shapley-values-f3e04534983d){:target="_blank"}
 08/15 | 1pm | 2W-516 | Jejo Koola |  [A clinically applicable approach to continuous prediction of future acute kidney injury]({{ site.baseurl }}/assets/081519_paper.pdf){:target="_blank"} [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/081519_slides.pptx)
 07/12 | 11am | 4E-111 | Gabriel |  [Personal clinical history predicts antibiotic resistance of urinary tract infections]({{ site.baseurl }}/assets/071219_paper.pdf){:target="_blank"} [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/071219_slides.pptx)
