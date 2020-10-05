@@ -30,17 +30,14 @@ La Jolla, CA - 92093<br>
 
 Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | --- | ---
-04/13 | 3pm | - | - | 1) [PROBAST: A Tool to Assess Risk of Bias and Applicability of Prediction Model Studies: Explanation and Elaboration]({{ site.baseurl }}/assets/041320_paper01.pdf){:target="_blank"} 2) [A Harmonized Data Quality Assessment Terminology and Framework for the Secondary Use of Electronic Health Record Data]({{ site.baseurl }}/assets/041320_paper02.pdf){:target="_blank"}
-09/12 | 11am | 2W-516 | Supreeth | [On the interpretability of machine learningbased model for predicting hypertension]({{ site.baseurl }}/assets/091219_paper.pdf){:target="_blank"} Extra: [Blog post on LIME](https://homes.cs.washington.edu/~marcotcr/blog/lime/){:target="_blank"}, [Blog post on Shapley Values](https://towardsdatascience.com/one-feature-attribution-method-to-supposedly-rule-them-all-shapley-values-f3e04534983d){:target="_blank"}
-08/15 | 1pm | 2W-516 | Jejo Koola |  [A clinically applicable approach to continuous prediction of future acute kidney injury]({{ site.baseurl }}/assets/081519_paper.pdf){:target="_blank"} [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/081519_slides.pptx)
-07/12 | 11am | 4E-111 | Gabriel |  [Personal clinical history predicts antibiotic resistance of urinary tract infections]({{ site.baseurl }}/assets/071219_paper.pdf){:target="_blank"} [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/071219_slides.pptx)
-07/02 | 2pm | 2W-516 | Supreeth |  Derivation, Validation, and Potential Treatment Implications of Novel Clinical Phenotypes for Sepsis - Continued
-06/20 | 11am | 2W-516 | Supreeth | [Derivation, Validation, and Potential Treatment Implications of Novel Clinical Phenotypes for Sepsis]({{ site.baseurl }}/assets/062019_paper.pdf){:target="_blank"} and [Supplementary Material]({{ site.baseurl }}/assets/062019_supplementary.pdf){:target="_blank"}
-05/17 | 3pm | - | Supreeth | [Electronic health record-based clinical decision support alert for severe sepsis: a randomised evaluation]({{ site.baseurl }}/assets/051719_paper01.pdf){:target="_blank"} and [Objecting to experiments that compare two unobjectionable policies or treatments]({{ site.baseurl }}/assets/051719_paper02.pdf){:target="_blank"}
-02/25 | 3pm | - | Matt | [Temporal Convolutional Networks and Dynamic Time Warping can Drastically Improve the Early Prediction of Sepsis]({{ site.baseurl }}/assets/022519_paper.pdf){:target="_blank"}
-02/11 | 3pm | - | Russell | [Sepsis as a model for improving diagnosis]({{ site.baseurl }}/assets/021119_paper1.pdf){:target="_blank"} and [Evaluating the impact of a computerized surveillance algorithm and decision support system on sepsis mortality]({{ site.baseurl }}/assets/021119_paper2.pdf){:target="_blank"}
-02/07 | 4pm | - | Supreeth | [Exponentially Weighted Imitation Learning for Batched Historical Data]({{ site.baseurl }}/assets/012819_paper.pdf){:target="_blank"}
-01/09 | 3pm | - | Russell | [Evaluating a New Marker for Risk Prediction Using the Test Tradeoff: An Update]({{ site.baseurl }}/assets/010919_paper01.pdf){:target="_blank"} [Decision Analysis for the Evaluation of Diagnostic Tests, Prediction Models, and Molecular Markers]({{ site.baseurl }}/assets/010919_paper02.pdf){:target="_blank"} [Decision Analysis]({{ site.baseurl }}/assets/010919_paper03.pdf){:target="_blank"}
+2020 | - | - | Supreeth | [Predictive modeling of bacterial infections and antibiotic therapy needs in critically ill adults] ({{ site.baseurl }}/assets/supreeth_1.pdf){:target="_blank"} 
+2020 | - | - | Nancy | [Machine Learning Characterization of COPD Subtypes: Insights From the COPDGene Study] ({{ site.baseurl }}/assets/nancy_1.pdf){:target="_blank"} 
+2020 | - | - | Nancy | [A multidimensional precision medicine approach identifies an autism subtype characterized by dyslipidemia] ({{ site.baseurl }}/assets/nancy_2.pdf){:target="_blank"} 
+2020 | - | - | Nancy | [Predicting Severe Chronic Obstructive Pulmonary Disease Exacerbations. Developing a Population Surveillance Approach with Administrative Data
+] ({{ site.baseurl }}/assets/nancy_3.pdf){:target="_blank"} 
+2020 | - | - | Nancy | [Machine Learning and Prediction of All-Cause Mortality in COPD] ({{ site.baseurl }}/assets/nancy_4.pdf){:target="_blank"} 
+2020 | - | - | Heqi | [Explainable artificial intelligence model to predict acute critical illness from electronic health records] ({{ site.baseurl }}/assets/heqi_1.pdf){:target="_blank"} 
+
 
 ---
 
@@ -75,6 +72,8 @@ Note *this website* is the gold standard for meeting locations, times, and dates
 
 [Overcoming catastrophic forgetting in neural networks](https://www.pnas.org/content/114/13/3521){:target="_blank"} [Blog post](https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/){:target="_blank"}
 
+[Exponentially Weighted Imitation Learning for Batched Historical Data]({{ site.baseurl }}/assets/012819_paper.pdf){:target="_blank"}
+
 ---
 
 ## Previous presentations
@@ -82,6 +81,16 @@ Note *this website* is the gold standard for meeting locations, times, and dates
 
 Date | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | ---
+04/13 | - | 1) [PROBAST: A Tool to Assess Risk of Bias and Applicability of Prediction Model Studies: Explanation and Elaboration]({{ site.baseurl }}/assets/041320_paper01.pdf){:target="_blank"} 2) [A Harmonized Data Quality Assessment Terminology and Framework for the Secondary Use of Electronic Health Record Data]({{ site.baseurl }}/assets/041320_paper02.pdf){:target="_blank"}
+09/12 | Supreeth | [On the interpretability of machine learningbased model for predicting hypertension]({{ site.baseurl }}/assets/091219_paper.pdf){:target="_blank"} Extra: [Blog post on LIME](https://homes.cs.washington.edu/~marcotcr/blog/lime/){:target="_blank"}, [Blog post on Shapley Values](https://towardsdatascience.com/one-feature-attribution-method-to-supposedly-rule-them-all-shapley-values-f3e04534983d){:target="_blank"}
+08/15 | Jejo Koola |  [A clinically applicable approach to continuous prediction of future acute kidney injury]({{ site.baseurl }}/assets/081519_paper.pdf){:target="_blank"} [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/081519_slides.pptx)
+07/12 | Gabriel |  [Personal clinical history predicts antibiotic resistance of urinary tract infections]({{ site.baseurl }}/assets/071219_paper.pdf){:target="_blank"} [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/071219_slides.pptx)
+07/02 | Supreeth |  Derivation, Validation, and Potential Treatment Implications of Novel Clinical Phenotypes for Sepsis - Continued
+06/20 | Supreeth | [Derivation, Validation, and Potential Treatment Implications of Novel Clinical Phenotypes for Sepsis]({{ site.baseurl }}/assets/062019_paper.pdf){:target="_blank"} and [Supplementary Material]({{ site.baseurl }}/assets/062019_supplementary.pdf){:target="_blank"}
+05/17 | Supreeth | [Electronic health record-based clinical decision support alert for severe sepsis: a randomised evaluation]({{ site.baseurl }}/assets/051719_paper01.pdf){:target="_blank"} and [Objecting to experiments that compare two unobjectionable policies or treatments]({{ site.baseurl }}/assets/051719_paper02.pdf){:target="_blank"}
+02/25 | Matt | [Temporal Convolutional Networks and Dynamic Time Warping can Drastically Improve the Early Prediction of Sepsis]({{ site.baseurl }}/assets/022519_paper.pdf){:target="_blank"}
+02/11 | Russell | [Sepsis as a model for improving diagnosis]({{ site.baseurl }}/assets/021119_paper1.pdf){:target="_blank"} and [Evaluating the impact of a computerized surveillance algorithm and decision support system on sepsis mortality]({{ site.baseurl }}/assets/021119_paper2.pdf){:target="_blank"}
+01/09 | Russell | [Evaluating a New Marker for Risk Prediction Using the Test Tradeoff: An Update]({{ site.baseurl }}/assets/010919_paper01.pdf){:target="_blank"} [Decision Analysis for the Evaluation of Diagnostic Tests, Prediction Models, and Molecular Markers]({{ site.baseurl }}/assets/010919_paper02.pdf){:target="_blank"} [Decision Analysis]({{ site.baseurl }}/assets/010919_paper03.pdf){:target="_blank"}
 12/05/18 | Russell | [The challenge of implementing AI models in the ICU]({{ site.baseurl }}/assets/120518_paper2.pdf){:target="_blank"} [To Trust Or Not To Trust A Classifier]({{ site.baseurl }}/assets/120518_paper1.pdf){:target="_blank"} [Supplement]({{ site.baseurl }}/assets/120518_paper1supplement.pdf){:target="_blank"}
 11/16/18 | Russell/Supreeth | [Relational inductive biases, deep learning, and graph networks]({{ site.baseurl }}/assets/111618_paper.pdf){:target="_blank"}
 10/24/18 | Russell | [The Artificial Intelligence Clinician learns optimal treatment strategies for sepsis in intensive care]({{ site.baseurl }}/assets/102418_paper.pdf){:target="_blank"} [Supplementary Materials]({{ site.baseurl }}/assets/102418_supplement.pdf){:target="_blank"}
