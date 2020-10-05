@@ -38,7 +38,6 @@ Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-fi
 2020 | - | - | Nancy | [Machine Learning and Prediction of All-Cause Mortality in COPD] ({{ site.baseurl }}/assets/nancy_4.pdf){:target="_blank"} 
 2020 | - | - | Heqi | [Explainable artificial intelligence model to predict acute critical illness from electronic health records] ({{ site.baseurl }}/assets/heqi_1.pdf){:target="_blank"} 
 
-
 ---
 
 ## SEPSIS Grand Rounds
