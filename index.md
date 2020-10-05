@@ -28,7 +28,8 @@ La Jolla, CA - 92093<br>
 ## Schedule & Papers
 <a name="schedule1"></a>
 
-Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
+Date | Time    | Room | Presenter | PDFs of Papers & Slidess ( <i class='fa fa-file-powerpoint-o'></i> )
+
 --- | --- | --- | --- | ---
 2020 | - | - | Supreeth | [Predictive modeling of bacterial infections and antibiotic therapy needs in critically ill adults] ({{ site.baseurl }}/assets/supreeth_1.pdf){:target="_blank"} 
 2020 | - | - | Nancy | [Machine Learning Characterization of COPD Subtypes: Insights From the COPDGene Study] ({{ site.baseurl }}/assets/nancy_1.pdf){:target="_blank"} 
