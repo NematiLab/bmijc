@@ -30,6 +30,8 @@ La Jolla, CA - 92093<br>
 
 Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | --- | ---
+10/15 | 10:30am | - | Supreeth | [Controlling Level of Unconsciousness by Titrating Propofol with Deep Reinforcement Learning]({{ site.baseurl }}/assets/101520.pdf){:target="_blank"}
+2020 | - | - | Supreeth | [A generalizable 29-mRNA neural-network classifier for acute bacterial and viral infections]({{ site.baseurl }}/assets/supreeth_2.pdf){:target="_blank"}
 2020 | - | - | Supreeth | [Predictive modeling of bacterial infections and antibiotic therapy needs in critically ill adults]({{ site.baseurl }}/assets/supreeth_1.pdf){:target="_blank"}
 2020 | - | - | Nancy | [Machine Learning Characterization of COPD Subtypes: Insights From the COPDGene Study]({{ site.baseurl }}/assets/nancy_1.pdf){:target="_blank"}
 2020 | - | - | Nancy | [A multidimensional precision medicine approach identifies an autism subtype characterized by dyslipidemia]({{ site.baseurl }}/assets/nancy_2.pdf){:target="_blank"}
@@ -82,7 +84,7 @@ Date | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'>
 04/13 | - | 1) [PROBAST: A Tool to Assess Risk of Bias and Applicability of Prediction Model Studies: Explanation and Elaboration]({{ site.baseurl }}/assets/041320_paper01.pdf){:target="_blank"} 2) [A Harmonized Data Quality Assessment Terminology and Framework for the Secondary Use of Electronic Health Record Data]({{ site.baseurl }}/assets/041320_paper02.pdf){:target="_blank"}
 09/12 | Supreeth | [On the interpretability of machine learningbased model for predicting hypertension]({{ site.baseurl }}/assets/091219_paper.pdf){:target="_blank"} Extra: [Blog post on LIME](https://homes.cs.washington.edu/~marcotcr/blog/lime/){:target="_blank"}, [Blog post on Shapley Values](https://towardsdatascience.com/one-feature-attribution-method-to-supposedly-rule-them-all-shapley-values-f3e04534983d){:target="_blank"}
 08/15 | Jejo Koola |  [A clinically applicable approach to continuous prediction of future acute kidney injury]({{ site.baseurl }}/assets/081519_paper.pdf){:target="_blank"} [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/081519_slides.pptx)
-07/12 | Gabriel |  [Personal clinical history predicts antibiotic resistance of urinary tract infections]({{ site.baseurl }}/assets/071219_paper.pdf){:target="_blank"} [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/071219_slides.pptx)
+07/12 | Gabe Wardi |  [Personal clinical history predicts antibiotic resistance of urinary tract infections]({{ site.baseurl }}/assets/071219_paper.pdf){:target="_blank"} [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/071219_slides.pptx)
 07/02 | Supreeth |  Derivation, Validation, and Potential Treatment Implications of Novel Clinical Phenotypes for Sepsis - Continued
 06/20 | Supreeth | [Derivation, Validation, and Potential Treatment Implications of Novel Clinical Phenotypes for Sepsis]({{ site.baseurl }}/assets/062019_paper.pdf){:target="_blank"} and [Supplementary Material]({{ site.baseurl }}/assets/062019_supplementary.pdf){:target="_blank"}
 05/17 | Supreeth | [Electronic health record-based clinical decision support alert for severe sepsis: a randomised evaluation]({{ site.baseurl }}/assets/051719_paper01.pdf){:target="_blank"} and [Objecting to experiments that compare two unobjectionable policies or treatments]({{ site.baseurl }}/assets/051719_paper02.pdf){:target="_blank"}
