@@ -28,16 +28,15 @@ La Jolla, CA - 92093<br>
 ## Schedule & Papers
 <a name="schedule1"></a>
 
-Date | Time    | Room | Presenter | PDFs of Papers & Slidess ( <i class='fa fa-file-powerpoint-o'></i> )
-
+Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | --- | ---
-2020 | - | - | Supreeth | [Predictive modeling of bacterial infections and antibiotic therapy needs in critically ill adults] ({{ site.baseurl }}/assets/supreeth_1.pdf){:target="_blank"} 
-2020 | - | - | Nancy | [Machine Learning Characterization of COPD Subtypes: Insights From the COPDGene Study] ({{ site.baseurl }}/assets/nancy_1.pdf){:target="_blank"} 
-2020 | - | - | Nancy | [A multidimensional precision medicine approach identifies an autism subtype characterized by dyslipidemia] ({{ site.baseurl }}/assets/nancy_2.pdf){:target="_blank"} 
+2020 | - | - | Supreeth | [Predictive modeling of bacterial infections and antibiotic therapy needs in critically ill adults] ({{ site.baseurl }}/assets/supreeth_1.pdf){:target="_blank"}
+2020 | - | - | Nancy | [Machine Learning Characterization of COPD Subtypes: Insights From the COPDGene Study] ({{ site.baseurl }}/assets/nancy_1.pdf){:target="_blank"}
+2020 | - | - | Nancy | [A multidimensional precision medicine approach identifies an autism subtype characterized by dyslipidemia] ({{ site.baseurl }}/assets/nancy_2.pdf){:target="_blank"}
 2020 | - | - | Nancy | [Predicting Severe Chronic Obstructive Pulmonary Disease Exacerbations. Developing a Population Surveillance Approach with Administrative Data
-] ({{ site.baseurl }}/assets/nancy_3.pdf){:target="_blank"} 
-2020 | - | - | Nancy | [Machine Learning and Prediction of All-Cause Mortality in COPD] ({{ site.baseurl }}/assets/nancy_4.pdf){:target="_blank"} 
-2020 | - | - | Heqi | [Explainable artificial intelligence model to predict acute critical illness from electronic health records] ({{ site.baseurl }}/assets/heqi_1.pdf){:target="_blank"} 
+] ({{ site.baseurl }}/assets/nancy_3.pdf){:target="_blank"}
+2020 | - | - | Nancy | [Machine Learning and Prediction of All-Cause Mortality in COPD] ({{ site.baseurl }}/assets/nancy_4.pdf){:target="_blank"}
+2020 | - | - | Heqi | [Explainable artificial intelligence model to predict acute critical illness from electronic health records] ({{ site.baseurl }}/assets/heqi_1.pdf){:target="_blank"}
 
 ---
 
