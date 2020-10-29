@@ -30,6 +30,7 @@ La Jolla, CA - 92093<br>
 
 Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | --- | ---
+10/29 | 10:30am | - | - | [Deep-learning-based real-time prediction of acute kidney injury outperforms human predictive performance]({{ site.baseurl }}/assets/102920_paper.pdf){:target="_blank"}
 10/15 | 10:30am | - | Supreeth | [Controlling Level of Unconsciousness by Titrating Propofol with Deep Reinforcement Learning]({{ site.baseurl }}/assets/101520_paper.pdf){:target="_blank"}
 10/15 | 10:30am | - | - | [Reinforcement Learning for Closed-Loop Propofol Anesthesia: A Study in Human Volunteers]({{ site.baseurl }}/assets/101520_paper_2.pdf){:target="_blank"}
 2020 | - | - | - | [Contrastive Learning of Medical Visual Representations from Paired Images and Text]({{ site.baseurl }}/assets/101520_paper_3.pdf){:target="_blank"}
