@@ -30,6 +30,8 @@ La Jolla, CA - 92093<br>
 
 Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | --- | ---
+02/11 | 10:30am | - | Dr. Sally Baxter | [Development and validation of the ISARIC 4C Deterioration model for adults hospitalised with COVID-19: a prospective cohort study]({{ site.baseurl }}/assets/021121_paper.pdf){:target="_blank"}
+01/28 | 10:30am | - | Supreeth | [Learning Representations of Missing Data for Predicting Patient Outcomes]({{ site.baseurl }}/assets/012821_paper01.pdf){:target="_blank"}
 01/14 | 10:30am | - | Supreeth | [Second opinion needed: communicating uncertainty in medical machine learning]({{ site.baseurl }}/assets/011321_paper.pdf){:target="_blank"}
 01/07 | 10:30am | - | Fatemeh | [Deep Learning for Improved Risk Prediction in Surgical Outcomes]({{ site.baseurl }}/assets/010721_paper.pdf){:target="_blank"}
 10/29 | 10:30am | - | - | [Deep-learning-based real-time prediction of acute kidney injury outperforms human predictive performance]({{ site.baseurl }}/assets/102920_paper.pdf){:target="_blank"}
