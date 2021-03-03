@@ -6,7 +6,7 @@ title: Home
 ## Overview
 <a name="overview"></a>
 
-WelcoXXXme to the journal club for the [Department of Biomedical Informatics at UCSD](https://medschool.ucsd.edu/som/dbmi/Pages/default.aspx){:target="_blank"}.
+Welcome to the journal club for the [Department of Biomedical Informatics at UCSD](https://medschool.ucsd.edu/som/dbmi/Pages/default.aspx){:target="_blank"}.
 
 We present and critique literature on machine learning, signal processing, and computation in biomedicine.
 
