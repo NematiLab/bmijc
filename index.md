@@ -31,8 +31,6 @@ La Jolla, CA - 92093<br>
 Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | --- | ---
 03/04 | 10:30am | - | Aaron | [Improving the delivery of palliative care through predictive modeling and healthcare informatics]({{ site.baseurl }}/assets/030421_paper.pdf){:target="_blank"}
-03/04 | 10:30am | - | Aaron | [Improving the delivery of palliative care through predictive modeling and healthcare informatics]({{ site.baseurl }}/assets/030421_paper.pdf){:target="_blank"}
-03/04 | 10:30am | - | Aaron | [Improving the delivery of palliative care through predictive modeling and healthcare informatics]({{ site.baseurl }}/assets/030421_paper.pdf){:target="_blank"}
 02/19 | 10:30am | - | - | [From Data to Optimal Decision Making: A Data-Driven, Probabilistic Machine Learning Approach to Decision Support for Patients With Sepsis]({{ site.baseurl }}/assets/021921_paper.pdf){:target="_blank"}
 02/11 | 10:30am | - | Dr. Sally Baxter | [Development and validation of the ISARIC 4C Deterioration model for adults hospitalised with COVID-19: a prospective cohort study]({{ site.baseurl }}/assets/021121_paper.pdf){:target="_blank"}
 01/28 | 10:30am | - | Supreeth | [Learning Representations of Missing Data for Predicting Patient Outcomes]({{ site.baseurl }}/assets/012821_paper01.pdf){:target="_blank"}
