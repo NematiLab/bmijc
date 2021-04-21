@@ -30,6 +30,7 @@ La Jolla, CA - 92093<br>
 
 Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | --- | ---
+04/22 | 10:30am | - | Nancy | [Multimodal fusion with deep neural networks for leveraging CT imaging and electronic health record: a case‑study in pulmonary embolism detection]({{ site.baseurl }}/assets/042221_paper.pdf){:target="_blank"}
 04/08 | 10:30am | - | Severine | [Directions for Explainable Knowledge-Enabled Systems]({{ site.baseurl }}/assets/040821_paper.pdf){:target="_blank"}
 03/24 | 10:30am | - | Supreeth | [Assessment of Machine Learning to Estimate the Individual Treatment Effect of Corticosteroids in Septic Shock]({{ site.baseurl }}/assets/032421_paper.pdf){:target="_blank"}
 03/04 | 10:30am | - | Aaron | [Improving the delivery of palliative care through predictive modeling and healthcare informatics]({{ site.baseurl }}/assets/030421_paper.pdf){:target="_blank"}
