@@ -30,6 +30,7 @@ La Jolla, CA - 92093<br>
 
 Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | --- | ---
+05/20 | 10:30am | - | Aaron | [Towards understanding the effective use of antibiotics for sepsis]({{ site.baseurl }}/assets/052021_paper.pdf){:target="_blank"}
 05/06 | 10:30am | - | Jonathan | [Early detection of sepsis utilizing deep learning on electronic health record event sequences]({{ site.baseurl }}/assets/050621_paper.pdf){:target="_blank"}
 04/22 | 10:30am | - | Nancy | [Multimodal fusion with deep neural networks for leveraging CT imaging and electronic health record: a case‑study in pulmonary embolism detection]({{ site.baseurl }}/assets/042221_paper.pdf){:target="_blank"}
 04/08 | 10:30am | - | Severine | [Directions for Explainable Knowledge-Enabled Systems]({{ site.baseurl }}/assets/040821_paper.pdf){:target="_blank"}
