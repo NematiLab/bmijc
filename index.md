@@ -30,6 +30,7 @@ La Jolla, CA - 92093<br>
 
 Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | --- | ---
+06/17 | 10:30am | - | Jonathan | [Swarm Learning for decentralized and confidential clinical machine learning]({{ site.baseurl }}/assets/061721_paper.pdf){:target="_blank"}
 06/03 | 10:30am | - | Severine | [The Value of Artificial Intelligence in Laboratory Medicine: Current Opinions and Barriers to Implementation]({{ site.baseurl }}/assets/060321_paper.pdf){:target="_blank"}
 05/20 | 10:30am | - | Aaron | [Towards understanding the effective use of antibiotics for sepsis]({{ site.baseurl }}/assets/052021_paper.pdf){:target="_blank"}
 05/06 | 10:30am | - | Jonathan | [Early detection of sepsis utilizing deep learning on electronic health record event sequences]({{ site.baseurl }}/assets/050621_paper.pdf){:target="_blank"}
