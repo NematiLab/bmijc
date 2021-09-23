@@ -30,6 +30,7 @@ La Jolla, CA - 92093<br>
 
 Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | --- | ---
+09/23 | 10:30am | - | Supreeth | [Improving Timeliness of Antibiotic Administration Using a Provider and Pharmacist Facing Sepsis Early Warning System in the Emergency Department Setting: A Randomized Controlled Quality Improvement Initiative]({{ site.baseurl }}/assets/092321_paper.pdf){:target="_blank"}
 08/12 | 10:30am | - | Nancy | [Clinical subphenotypes in COVID-19: derivation, validation, prediction, temporal patterns, and interaction with social determinants of health]({{ site.baseurl }}/assets/081221_paper.pdf){:target="_blank"}
 07/29 | 10:30am | - | Jonathan | [Uncertainty quantification in skin cancer classification using three-way decision-based Bayesian deep learning]({{ site.baseurl }}/assets/072921_paper.pdf){:target="_blank"}
 07/15 | 10:30am | - | Dr. Gabe Wardi | [Design and Implementation of a Real-time Monitoring Platform for Optimal Sepsis Care in an Emergency Department: Observational Cohort Study]({{ site.baseurl }}/assets/071521_paper.pdf){:target="_blank"}
