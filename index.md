@@ -30,6 +30,7 @@ La Jolla, CA - 92093<br>
 
 Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | --- | ---
+12/15 | 10:30am | - | Jonathan | [Identification of driver genes for critical forms of COVID-19 in a deeply phenotyped young patient cohort]({{ site.baseurl }}/assets/121521_paper.pdf){:target="_blank"}
 11/18 | 10:30am | - | Archil | [Training deep neural-networks using a noise adaptation layer]({{ site.baseurl }}/assets/111821_paper.pdf){:target="_blank"}
 10/08 | 10:30am | - | Aaron | [Personalized Antibiograms: Machine Learning for Precision Selection of Empiric Antibiotics]({{ site.baseurl }}/assets/100821_paper.pdf){:target="_blank"}
 09/23 | 10:30am | - | Supreeth | [Improving Timeliness of Antibiotic Administration Using a Provider and Pharmacist Facing Sepsis Early Warning System in the Emergency Department Setting: A Randomized Controlled Quality Improvement Initiative]({{ site.baseurl }}/assets/092321_paper.pdf){:target="_blank"}
