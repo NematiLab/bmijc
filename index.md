@@ -30,6 +30,7 @@ La Jolla, CA - 92093<br>
 
 Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | --- | ---
+01/13 | 10:30am | - | Rahul | [Deep Learning with Heterogeneous Graph Embeddings for Mortality Prediction from Electronic Health Records]({{ site.baseurl }}/assets/011322_paper.pdf){:target="_blank"}
 12/15 | 10:30am | - | Jonathan | [Identification of driver genes for critical forms of COVID-19 in a deeply phenotyped young patient cohort]({{ site.baseurl }}/assets/121521_paper.pdf){:target="_blank"}
 11/18 | 10:30am | - | Archil | [Training deep neural-networks using a noise adaptation layer]({{ site.baseurl }}/assets/111821_paper.pdf){:target="_blank"}
 10/08 | 10:30am | - | Aaron | [Personalized Antibiograms: Machine Learning for Precision Selection of Empiric Antibiotics]({{ site.baseurl }}/assets/100821_paper.pdf){:target="_blank"}
