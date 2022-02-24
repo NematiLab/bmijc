@@ -30,6 +30,7 @@ La Jolla, CA - 92093<br>
 
 Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | --- | ---
+02/23 | 10:30am | - | Jonathan |[Deep phenotyping of Alzheimer's disease leveraging electronic medical records identifies sex-specific clinical associations]({{ site.baseurl }}/assets/022322_paper.pdf){:target="_blank"}
 01/20 | 10:30am | - | Dr. Benjamin Glicksberg | [Contrastive learning improves critical event prediction in COVID-19 patients]({{ site.baseurl }}/assets/012022_paper.pdf){:target="_blank"}
 01/13 | 10:30am | - | Rahul | [Deep Learning with Heterogeneous Graph Embeddings for Mortality Prediction from Electronic Health Records]({{ site.baseurl }}/assets/011322_paper.pdf){:target="_blank"}
 12/15 | 10:30am | - | Jonathan | [Identification of driver genes for critical forms of COVID-19 in a deeply phenotyped young patient cohort]({{ site.baseurl }}/assets/121521_paper.pdf){:target="_blank"}
