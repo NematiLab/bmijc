@@ -30,7 +30,7 @@ La Jolla, CA - 92093<br>
 
 Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | --- | ---
-03/24 | 10:30am | - | Supreeth |[03/10 | 10:30am | - | Gabe |[A Pragmatic Stepped-wedge, Cluster-controlled Trial of Real-time Pneumonia Clinical Decision Support]({{ site.baseurl }}/assets/031422_paper.pdf){:target="_blank"}
+03/24 | 10:30am | - | Supreeth |[A Pragmatic Stepped-wedge, Cluster-controlled Trial of Real-time Pneumonia Clinical Decision Support]({{ site.baseurl }}/assets/031422_paper.pdf){:target="_blank"}
 03/10 | 10:30am | - | Gabe |[Development and Verification of a Digital Twin Patient Model to Predict Specific Treatment Response During the First 24 Hours of Sepsis]({{ site.baseurl }}/assets/031022_paper.pdf){:target="_blank"}
 02/23 | 10:30am | - | Jonathan |[Deep phenotyping of Alzheimer's disease leveraging electronic medical records identifies sex-specific clinical associations]({{ site.baseurl }}/assets/022322_paper.pdf){:target="_blank"}
 01/20 | 10:30am | - | Dr. Benjamin Glicksberg | [Contrastive learning improves critical event prediction in COVID-19 patients]({{ site.baseurl }}/assets/012022_paper.pdf){:target="_blank"}
