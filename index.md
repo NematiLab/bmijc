@@ -30,6 +30,7 @@ La Jolla, CA - 92093<br>
 
 Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | --- | ---
+05/20 | 11:00am | - | Archil |[Literature-Augmented Clinical Outcome Prediction]({{ site.baseurl }}/assets/052022_paper.pdf){:target="_blank"}
 05/06 | 11:00am | - | Gabe |[Implementation approaches and barriers for rule-based and machine learning-based sepsis risk prediction tools: a qualitative study]({{ site.baseurl }}/assets/050622_paper.pdf){:target="_blank"}
 03/24 | 10:30am | - | Supreeth |[A Pragmatic Stepped-wedge, Cluster-controlled Trial of Real-time Pneumonia Clinical Decision Support]({{ site.baseurl }}/assets/032422_paper.pdf){:target="_blank"}
 03/10 | 10:30am | - | Gabe |[Development and Verification of a Digital Twin Patient Model to Predict Specific Treatment Response During the First 24 Hours of Sepsis]({{ site.baseurl }}/assets/031022_paper.pdf){:target="_blank"}
