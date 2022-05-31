@@ -30,6 +30,8 @@ La Jolla, CA - 92093<br>
 
 Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | --- | ---
+05/20 | 11:00am | - | Thesath ( |[Unifying cardiovascular modelling with deep reinforcement learning for uncertainty aware control of sepsis treatment]({{ site.baseurl }}/assets/060322_paper.pdf){:target="_blank"}
+05/27 | 11:00am | - | Jonathan |[Concept-based model explanations for electronic health records]({{ site.baseurl }}/assets/052722_paper.pdf){:target="_blank"}
 05/20 | 11:00am | - | Archil |[Literature-Augmented Clinical Outcome Prediction]({{ site.baseurl }}/assets/052022_paper.pdf){:target="_blank"}
 05/06 | 11:00am | - | Gabe |[Implementation approaches and barriers for rule-based and machine learning-based sepsis risk prediction tools: a qualitative study]({{ site.baseurl }}/assets/050622_paper.pdf){:target="_blank"}
 03/24 | 10:30am | - | Supreeth |[A Pragmatic Stepped-wedge, Cluster-controlled Trial of Real-time Pneumonia Clinical Decision Support]({{ site.baseurl }}/assets/032422_paper.pdf){:target="_blank"}
