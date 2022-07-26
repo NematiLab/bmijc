@@ -30,6 +30,7 @@ La Jolla, CA - 92093<br>
 
 Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | --- | ---
+07/27 | 01:00pm | - | Nicole |[Who Goes First? Influences of Human-AI Workflow on Decision Making in Clinical Imaging]({{ site.baseurl }}/assets/072922_paper.pdf){:target="_blank"}
 07/11 | 01:00pm | - | Nathan |[Wearable sensor derived decompensation index for continuous remote monitoring of COVID-19 diagnosed patients]({{ site.baseurl }}/assets/071422_paper.pdf){:target="_blank"}
 07/08 | 01:00pm | - | Gabe |[Sepsis subphenotyping based on organ dysfunction trajectory]({{ site.baseurl }}/assets/070822_paper.pdf){:target="_blank"}
 07/01 | 11:00am | - | Aaron |[Machine Learning Prediction of Clinical Trial Operational Efciency]({{ site.baseurl }}/assets/070122_paper.pdf){:target="_blank"}
