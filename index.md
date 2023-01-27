@@ -30,6 +30,7 @@ La Jolla, CA - 92093<br>
 
 Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | --- | ---
+01/13 | 12:00pm | - | Haben |Real-time infection prediction with wearable physiological monitoring and AI to aid military workforce readiness during COVID-19[]({{ site.baseurl }}/assets/012623_paper.pdf){:target="_blank"}
 01/13 | 12:00pm | - | Aaron |[Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency]({{ site.baseurl }}/assets/011223_paper.pdf){:target="_blank"}
 08/26 | 01:00pm | - | Irvin |[The silent trial - the bridge between bench-to-bedside clinical AI application]({{ site.baseurl }}/assets/082622_paper.pdf){:target="_blank"}
 07/27 | 01:00pm | - | Nicole |[Who Goes First? Influences of Human-AI Workflow on Decision Making in Clinical Imaging]({{ site.baseurl }}/assets/072922_paper.pdf){:target="_blank"}
