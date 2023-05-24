@@ -30,6 +30,7 @@ La Jolla, CA - 92093<br>
 
 Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | --- | ---
+05/24 | 11:00am | - | Aaron |[Deployment of Real-time Natural Language Processing and Deep Learning Clinical Decision Support in the Electronic Health Record: Pipeline Implementation for an Opioid Misuse Screener in Hospitalized Adults]({{ site.baseurl }}/assets/052423_paper.pdf){:target="_blank"}
 03/24 | 12:00pm | - | Fatemeh |[Transfer Learning on Heterogeneous Feature Spaces for Treatment Effects Estimation]({{ site.baseurl }}/assets/03_24_23_paper.pdf){:target="_blank"}
 01/13 | 12:00pm | - | Haben |[Real-time infection prediction with wearable physiological monitoring and AI to aid military workforce readiness during COVID-19]({{ site.baseurl }}/assets/012623_paper.pdf){:target="_blank"}
 01/13 | 12:00pm | - | Aaron |[Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency]({{ site.baseurl }}/assets/011223_paper.pdf){:target="_blank"}
