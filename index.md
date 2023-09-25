@@ -6,7 +6,7 @@ title: Home
 ## Overview
 <a name="overview"></a>
 
-elcome to the journal club for the [Department of Biomedical Informatics at UCSD](https://medschool.ucsd.edu/som/dbmi/Pages/default.aspx){:target="_blank"}.
+Welcome to the journal club for the [Department of Biomedical Informatics at UCSD](https://medschool.ucsd.edu/som/dbmi/Pages/default.aspx){:target="_blank"}.
 
 We present and critique literature on machine learning, signal processing, and computation in biomedicine.
 
@@ -30,6 +30,10 @@ La Jolla, CA - 92093<br>
 
 Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | --- | ---
+09/22 | 10:00am | - | Nathan |[Assessing the Utility of ChatGPT Throughout the Entire Clinical Workflow: Development and Usability Study]({{ site.baseurl }}/assets/092223_paper.pdf){:target="_blank"}
+09/11 | 10:00am | - | Archil |[Reinforced Self-Training (ReST) for Language Modeling]({{ site.baseurl }}/assets/091123_paper.pdf){:target="_blank"}
+08/22 | 10:00am | - | Fatemeh |[Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models]({{ site.baseurl }}/assets/082223_paper.pdf){:target="_blank"}
+08/18 | 10:00am | - | Jonathan |[BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models]({{ site.baseurl }}/assets/081823_paper.pdf){:target="_blank"}
 08/06 | 10:00am | - | Fatemeh |[Explaining machine learning models with interactive natural language conversations using TalkToModel]({{ site.baseurl }}/assets/080623_paper.pdf){:target="_blank"}
 05/24 | 11:00am | - | Aaron |[Deployment of Real-time Natural Language Processing and Deep Learning Clinical Decision Support in the Electronic Health Record: Pipeline Implementation for an Opioid Misuse Screener in Hospitalized Adults]({{ site.baseurl }}/assets/052423_paper.pdf){:target="_blank"}
 03/24 | 12:00pm | - | Fatemeh |[Transfer Learning on Heterogeneous Feature Spaces for Treatment Effects Estimation]({{ site.baseurl }}/assets/03_24_23_paper.pdf){:target="_blank"}
