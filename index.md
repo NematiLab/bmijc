@@ -30,6 +30,7 @@ La Jolla, CA - 92093<br>
 
 Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- | --- | ---
+09/22 | 10:00am | - | Nathan |[Slides: Assessing the Utility of ChatGPT Throughout the Entire Clinical Workflow: Development and Usability Study]({{ site.baseurl }}/assets/092223_slides.pdf){:target="_blank"}
 09/22 | 10:00am | - | Nathan |[Assessing the Utility of ChatGPT Throughout the Entire Clinical Workflow: Development and Usability Study]({{ site.baseurl }}/assets/092223_paper.pdf){:target="_blank"}
 09/11 | 10:00am | - | Archil |[Reinforced Self-Training (ReST) for Language Modeling]({{ site.baseurl }}/assets/091123_paper.pdf){:target="_blank"}
 08/22 | 10:00am | - | Fatemeh |[Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models]({{ site.baseurl }}/assets/082223_paper.pdf){:target="_blank"}
