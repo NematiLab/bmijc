@@ -28,64 +28,9 @@ La Jolla, CA - 92093<br>
 ## Schedule & Papers
 <a name="schedule1"></a>
 
-Date | Time    | Room | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
---- | --- | --- | --- | ---
-09/22 | 10:00am | - | Nathan |[Slides: Assessing the Utility of ChatGPT Throughout the Entire Clinical Workflow: Development and Usability Study]({{ site.baseurl }}/assets/092223_slides.pdf){:target="_blank"}
-09/22 | 10:00am | - | Nathan |[Assessing the Utility of ChatGPT Throughout the Entire Clinical Workflow: Development and Usability Study]({{ site.baseurl }}/assets/092223_paper.pdf){:target="_blank"}
-09/11 | 10:00am | - | Archil |[Reinforced Self-Training (ReST) for Language Modeling]({{ site.baseurl }}/assets/091123_paper.pdf){:target="_blank"}
-08/22 | 10:00am | - | Fatemeh |[Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models]({{ site.baseurl }}/assets/082223_paper.pdf){:target="_blank"}
-08/18 | 10:00am | - | Jonathan |[BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models]({{ site.baseurl }}/assets/081823_paper.pdf){:target="_blank"}
-08/06 | 10:00am | - | Fatemeh |[Explaining machine learning models with interactive natural language conversations using TalkToModel]({{ site.baseurl }}/assets/080623_paper.pdf){:target="_blank"}
-05/24 | 11:00am | - | Aaron |[Deployment of Real-time Natural Language Processing and Deep Learning Clinical Decision Support in the Electronic Health Record: Pipeline Implementation for an Opioid Misuse Screener in Hospitalized Adults]({{ site.baseurl }}/assets/052423_paper.pdf){:target="_blank"}
-03/24 | 12:00pm | - | Fatemeh |[Transfer Learning on Heterogeneous Feature Spaces for Treatment Effects Estimation]({{ site.baseurl }}/assets/03_24_23_paper.pdf){:target="_blank"}
-01/13 | 12:00pm | - | Haben |[Real-time infection prediction with wearable physiological monitoring and AI to aid military workforce readiness during COVID-19]({{ site.baseurl }}/assets/012623_paper.pdf){:target="_blank"}
-01/13 | 12:00pm | - | Aaron |[Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency]({{ site.baseurl }}/assets/011223_paper.pdf){:target="_blank"}
-08/26 | 01:00pm | - | Irvin |[The silent trial - the bridge between bench-to-bedside clinical AI application]({{ site.baseurl }}/assets/082622_paper.pdf){:target="_blank"}
-07/27 | 01:00pm | - | Nicole |[Who Goes First? Influences of Human-AI Workflow on Decision Making in Clinical Imaging]({{ site.baseurl }}/assets/072922_paper.pdf){:target="_blank"}
-07/11 | 01:00pm | - | Nathan |[Wearable sensor derived decompensation index for continuous remote monitoring of COVID-19 diagnosed patients]({{ site.baseurl }}/assets/071422_paper.pdf){:target="_blank"}
-07/08 | 01:00pm | - | Gabe |[Sepsis subphenotyping based on organ dysfunction trajectory]({{ site.baseurl }}/assets/070822_paper.pdf){:target="_blank"}
-07/01 | 11:00am | - | Aaron |[Machine Learning Prediction of Clinical Trial Operational Efciency]({{ site.baseurl }}/assets/070122_paper.pdf){:target="_blank"}
-05/20 | 11:00am | - | Thesath  |[Unifying cardiovascular modelling with deep reinforcement learning for uncertainty aware control of sepsis treatment]({{ site.baseurl }}/assets/060322_paper.pdf){:target="_blank"}
-05/27 | 11:00am | - | Jonathan |[Concept-based model explanations for electronic health records]({{ site.baseurl }}/assets/052722_paper.pdf){:target="_blank"}
-05/20 | 11:00am | - | Archil |[Literature-Augmented Clinical Outcome Prediction]({{ site.baseurl }}/assets/052022_paper.pdf){:target="_blank"}
-05/06 | 11:00am | - | Gabe |[Implementation approaches and barriers for rule-based and machine learning-based sepsis risk prediction tools: a qualitative study]({{ site.baseurl }}/assets/050622_paper.pdf){:target="_blank"}
-03/24 | 10:30am | - | Supreeth |[A Pragmatic Stepped-wedge, Cluster-controlled Trial of Real-time Pneumonia Clinical Decision Support]({{ site.baseurl }}/assets/032422_paper.pdf){:target="_blank"}
-03/10 | 10:30am | - | Gabe |[Development and Verification of a Digital Twin Patient Model to Predict Specific Treatment Response During the First 24 Hours of Sepsis]({{ site.baseurl }}/assets/031022_paper.pdf){:target="_blank"}
-02/23 | 10:30am | - | Jonathan |[Deep phenotyping of Alzheimer's disease leveraging electronic medical records identifies sex-specific clinical associations]({{ site.baseurl }}/assets/022322_paper.pdf){:target="_blank"}
-01/20 | 10:30am | - | Dr. Benjamin Glicksberg | [Contrastive learning improves critical event prediction in COVID-19 patients]({{ site.baseurl }}/assets/012022_paper.pdf){:target="_blank"}
-01/13 | 10:30am | - | Rahul | [Deep Learning with Heterogeneous Graph Embeddings for Mortality Prediction from Electronic Health Records]({{ site.baseurl }}/assets/011322_paper.pdf){:target="_blank"}
-12/15 | 10:30am | - | Jonathan | [Identification of driver genes for critical forms of COVID-19 in a deeply phenotyped young patient cohort]({{ site.baseurl }}/assets/121521_paper.pdf){:target="_blank"}
-11/18 | 10:30am | - | Archil | [Training deep neural-networks using a noise adaptation layer]({{ site.baseurl }}/assets/111821_paper.pdf){:target="_blank"}
-10/08 | 10:30am | - | Aaron | [Personalized Antibiograms: Machine Learning for Precision Selection of Empiric Antibiotics]({{ site.baseurl }}/assets/100821_paper.pdf){:target="_blank"}
-09/23 | 10:30am | - | Supreeth | [Improving Timeliness of Antibiotic Administration Using a Provider and Pharmacist Facing Sepsis Early Warning System in the Emergency Department Setting: A Randomized Controlled Quality Improvement Initiative]({{ site.baseurl }}/assets/092321_paper.pdf){:target="_blank"}
-08/12 | 10:30am | - | Nancy | [Clinical subphenotypes in COVID-19: derivation, validation, prediction, temporal patterns, and interaction with social determinants of health]({{ site.baseurl }}/assets/081221_paper.pdf){:target="_blank"}
-07/29 | 10:30am | - | Jonathan | [Uncertainty quantification in skin cancer classification using three-way decision-based Bayesian deep learning]({{ site.baseurl }}/assets/072921_paper.pdf){:target="_blank"}
-07/15 | 10:30am | - | Dr. Gabe Wardi | [Design and Implementation of a Real-time Monitoring Platform for Optimal Sepsis Care in an Emergency Department: Observational Cohort Study]({{ site.baseurl }}/assets/071521_paper.pdf){:target="_blank"}
-07/01 | 10:30am | - | Dr. Kit Curtius | [Multicentre derivation and validation of a colitis-associated colorectal cancer risk prediction web tool]({{ site.baseurl }}/assets/070121_paper.pdf){:target="_blank"}
-06/17 | 10:30am | - | Jonathan | [Swarm Learning for decentralized and confidential clinical machine learning]({{ site.baseurl }}/assets/061721_paper.pdf){:target="_blank"}
-06/03 | 10:30am | - | Severine | [The Value of Artificial Intelligence in Laboratory Medicine: Current Opinions and Barriers to Implementation]({{ site.baseurl }}/assets/060321_paper.pdf){:target="_blank"}
-05/20 | 10:30am | - | Aaron | [Towards understanding the effective use of antibiotics for sepsis]({{ site.baseurl }}/assets/052021_paper.pdf){:target="_blank"}
-05/06 | 10:30am | - | Jonathan | [Early detection of sepsis utilizing deep learning on electronic health record event sequences]({{ site.baseurl }}/assets/050621_paper.pdf){:target="_blank"}
-04/22 | 10:30am | - | Nancy | [Multimodal fusion with deep neural networks for leveraging CT imaging and electronic health record: a case‑study in pulmonary embolism detection]({{ site.baseurl }}/assets/042221_paper.pdf){:target="_blank"}
-04/08 | 10:30am | - | Severine | [Directions for Explainable Knowledge-Enabled Systems]({{ site.baseurl }}/assets/040821_paper.pdf){:target="_blank"}
-03/24 | 10:30am | - | Supreeth | [Assessment of Machine Learning to Estimate the Individual Treatment Effect of Corticosteroids in Septic Shock]({{ site.baseurl }}/assets/032421_paper.pdf){:target="_blank"}
-03/04 | 10:30am | - | Aaron | [Improving the delivery of palliative care through predictive modeling and healthcare informatics]({{ site.baseurl }}/assets/030421_paper.pdf){:target="_blank"}
-02/19 | 10:30am | - | - | [From Data to Optimal Decision Making: A Data-Driven, Probabilistic Machine Learning Approach to Decision Support for Patients With Sepsis]({{ site.baseurl }}/assets/021921_paper.pdf){:target="_blank"}
-02/11 | 10:30am | - | Dr. Sally Baxter | [Development and validation of the ISARIC 4C Deterioration model for adults hospitalised with COVID-19: a prospective cohort study]({{ site.baseurl }}/assets/021121_paper.pdf){:target="_blank"}
-01/28 | 10:30am | - | Supreeth | [Learning Representations of Missing Data for Predicting Patient Outcomes]({{ site.baseurl }}/assets/012821_paper01.pdf){:target="_blank"}
-01/14 | 10:30am | - | Supreeth | [Second opinion needed: communicating uncertainty in medical machine learning]({{ site.baseurl }}/assets/011321_paper.pdf){:target="_blank"}
-01/07 | 10:30am | - | Fatemeh | [Deep Learning for Improved Risk Prediction in Surgical Outcomes]({{ site.baseurl }}/assets/010721_paper.pdf){:target="_blank"}
-10/29 | 10:30am | - | - | [Deep-learning-based real-time prediction of acute kidney injury outperforms human predictive performance]({{ site.baseurl }}/assets/102920_paper.pdf){:target="_blank"}
-10/15 | 10:30am | - | Supreeth | [Controlling Level of Unconsciousness by Titrating Propofol with Deep Reinforcement Learning]({{ site.baseurl }}/assets/101520_paper.pdf){:target="_blank"}
-10/15 | 10:30am | - | - | [Reinforcement Learning for Closed-Loop Propofol Anesthesia: A Study in Human Volunteers]({{ site.baseurl }}/assets/101520_paper_2.pdf){:target="_blank"}
-2020 | - | - | - | [Contrastive Learning of Medical Visual Representations from Paired Images and Text]({{ site.baseurl }}/assets/101520_paper_3.pdf){:target="_blank"}
-2020 | - | - | - | [A generalizable 29-mRNA neural-network classifier for acute bacterial and viral infections]({{ site.baseurl }}/assets/supreeth_2.pdf){:target="_blank"}
-2020 | - | - | Supreeth | [Predictive modeling of bacterial infections and antibiotic therapy needs in critically ill adults]({{ site.baseurl }}/assets/supreeth_1.pdf){:target="_blank"}
-2020 | - | - | Nancy | [Machine Learning Characterization of COPD Subtypes: Insights From the COPDGene Study]({{ site.baseurl }}/assets/nancy_1.pdf){:target="_blank"}
-2020 | - | - | Nancy | [A multidimensional precision medicine approach identifies an autism subtype characterized by dyslipidemia]({{ site.baseurl }}/assets/nancy_2.pdf){:target="_blank"}
-2020 | - | - | Nancy | [Predicting Severe Chronic Obstructive Pulmonary Disease Exacerbations. Developing a Population Surveillance Approach with Administrative Data]({{ site.baseurl }}/assets/nancy_3.pdf){:target="_blank"}
-2020 | - | - | Nancy | [Machine Learning and Prediction of All-Cause Mortality in COPD]({{ site.baseurl }}/assets/nancy_4.pdf){:target="_blank"}
-2020 | - | - | Heqi | [Explainable artificial intelligence model to predict acute critical illness from electronic health records]({{ site.baseurl }}/assets/heqi_1.pdf){:target="_blank"}
+Date | Time | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
+--- | --- | --- |  ---
+01/12 | 10:00am | Mingjia |[Epistemic Neural Networks]({{ site.baseurl }}/assets/011224_paper.pdf){:target="_blank"}
 
 ---
 
@@ -129,6 +74,65 @@ Note *this website* is the gold standard for meeting locations, times, and dates
 
 Date | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | ---
+2022 | Anwesh |[The Linear Representation Hypothesis and the Geometry of Large Language Models]({{ site.baseurl }}/assets/120823_paper.pdf){:target="_blank"}
+2022 | Nathan |[Tell me something interesting: Clinical utility of machine learning prediction models in the ICU]({{ site.baseurl }}/assets/110323_paper.pdf){:target="_blank"}
+2022 | Mingjia |[ELIXR: Towards a general purpose X-ray artificial intelligence system through alignment of large language models and radiology vision encoders]({{ site.baseurl }}/assets/102723_paper.pdf){:target="_blank"}
+2022 | Nathan |[Slides: Assessing the Utility of ChatGPT Throughout the Entire Clinical Workflow: Development and Usability Study]({{ site.baseurl }}/assets/092223_slides.pdf){:target="_blank"}
+2022 | Nathan |[Assessing the Utility of ChatGPT Throughout the Entire Clinical Workflow: Development and Usability Study]({{ site.baseurl }}/assets/092223_paper.pdf){:target="_blank"}
+2022 | Archil |[Reinforced Self-Training (ReST) for Language Modeling]({{ site.baseurl }}/assets/091123_paper.pdf){:target="_blank"}
+2022 | Fatemeh |[Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models]({{ site.baseurl }}/assets/082223_paper.pdf){:target="_blank"}
+2022 | Jonathan |[BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models]({{ site.baseurl }}/assets/081823_paper.pdf){:target="_blank"}
+2022 | Fatemeh |[Explaining machine learning models with interactive natural language conversations using TalkToModel]({{ site.baseurl }}/assets/080623_paper.pdf){:target="_blank"}
+2022 | Aaron |[Deployment of Real-time Natural Language Processing and Deep Learning Clinical Decision Support in the Electronic Health Record: Pipeline Implementation for an Opioid Misuse Screener in Hospitalized Adults]({{ site.baseurl }}/assets/052423_paper.pdf){:target="_blank"}
+2022 | Fatemeh |[Transfer Learning on Heterogeneous Feature Spaces for Treatment Effects Estimation]({{ site.baseurl }}/assets/03_24_23_paper.pdf){:target="_blank"}
+2022 | Haben |[Real-time infection prediction with wearable physiological monitoring and AI to aid military workforce readiness during COVID-19]({{ site.baseurl }}/assets/012623_paper.pdf){:target="_blank"}
+2022 | Aaron |[Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency]({{ site.baseurl }}/assets/011223_paper.pdf){:target="_blank"}
+2022 | Irvin |[The silent trial - the bridge between bench-to-bedside clinical AI application]({{ site.baseurl }}/assets/082622_paper.pdf){:target="_blank"}
+2022 | Nicole |[Who Goes First? Influences of Human-AI Workflow on Decision Making in Clinical Imaging]({{ site.baseurl }}/assets/072922_paper.pdf){:target="_blank"}
+2022 | Nathan |[Wearable sensor derived decompensation index for continuous remote monitoring of COVID-19 diagnosed patients]({{ site.baseurl }}/assets/071422_paper.pdf){:target="_blank"}
+2022 | Gabe |[Sepsis subphenotyping based on organ dysfunction trajectory]({{ site.baseurl }}/assets/070822_paper.pdf){:target="_blank"}
+2022 | Aaron |[Machine Learning Prediction of Clinical Trial Operational Efciency]({{ site.baseurl }}/assets/070122_paper.pdf){:target="_blank"}
+2022 | Thesath  |[Unifying cardiovascular modelling with deep reinforcement learning for uncertainty aware control of sepsis treatment]({{ site.baseurl }}/assets/060322_paper.pdf){:target="_blank"}
+2022 | Jonathan |[Concept-based model explanations for electronic health records]({{ site.baseurl }}/assets/052722_paper.pdf){:target="_blank"}
+2022 | Archil |[Literature-Augmented Clinical Outcome Prediction]({{ site.baseurl }}/assets/052022_paper.pdf){:target="_blank"}
+2022 | Gabe |[Implementation approaches and barriers for rule-based and machine learning-based sepsis risk prediction tools: a qualitative study]({{ site.baseurl }}/assets/050622_paper.pdf){:target="_blank"}
+2022 | Supreeth |[A Pragmatic Stepped-wedge, Cluster-controlled Trial of Real-time Pneumonia Clinical Decision Support]({{ site.baseurl }}/assets/032422_paper.pdf){:target="_blank"}
+2022 | Gabe |[Development and Verification of a Digital Twin Patient Model to Predict Specific Treatment Response During the First 24 Hours of Sepsis]({{ site.baseurl }}/assets/031022_paper.pdf){:target="_blank"}
+2022 | Jonathan |[Deep phenotyping of Alzheimer's disease leveraging electronic medical records identifies sex-specific clinical associations]({{ site.baseurl }}/assets/022322_paper.pdf){:target="_blank"}
+2022 | Dr. Benjamin Glicksberg | [Contrastive learning improves critical event prediction in COVID-19 patients]({{ site.baseurl }}/assets/012022_paper.pdf){:target="_blank"}
+2022 | Rahul | [Deep Learning with Heterogeneous Graph Embeddings for Mortality Prediction from Electronic Health Records]({{ site.baseurl }}/assets/011322_paper.pdf){:target="_blank"}
+2021 | Jonathan | [Identification of driver genes for critical forms of COVID-19 in a deeply phenotyped young patient cohort]({{ site.baseurl }}/assets/121521_paper.pdf){:target="_blank"}
+2021 | Archil | [Training deep neural-networks using a noise adaptation layer]({{ site.baseurl }}/assets/111821_paper.pdf){:target="_blank"}
+2021 | Aaron | [Personalized Antibiograms: Machine Learning for Precision Selection of Empiric Antibiotics]({{ site.baseurl }}/assets/100821_paper.pdf){:target="_blank"}
+2021 | Supreeth | [Improving Timeliness of Antibiotic Administration Using a Provider and Pharmacist Facing Sepsis Early Warning System in the Emergency Department Setting: A Randomized Controlled Quality Improvement Initiative]({{ site.baseurl }}/assets/092321_paper.pdf){:target="_blank"}
+2021 | Nancy | [Clinical subphenotypes in COVID-19: derivation, validation, prediction, temporal patterns, and interaction with social determinants of health]({{ site.baseurl }}/assets/081221_paper.pdf){:target="_blank"}
+2021 | Jonathan | [Uncertainty quantification in skin cancer classification using three-way decision-based Bayesian deep learning]({{ site.baseurl }}/assets/072921_paper.pdf){:target="_blank"}
+2021 | Dr. Gabe Wardi | [Design and Implementation of a Real-time Monitoring Platform for Optimal Sepsis Care in an Emergency Department: Observational Cohort Study]({{ site.baseurl }}/assets/071521_paper.pdf){:target="_blank"}
+2021 | Dr. Kit Curtius | [Multicentre derivation and validation of a colitis-associated colorectal cancer risk prediction web tool]({{ site.baseurl }}/assets/070121_paper.pdf){:target="_blank"}
+2021 | Jonathan | [Swarm Learning for decentralized and confidential clinical machine learning]({{ site.baseurl }}/assets/061721_paper.pdf){:target="_blank"}
+2021 | Severine | [The Value of Artificial Intelligence in Laboratory Medicine: Current Opinions and Barriers to Implementation]({{ site.baseurl }}/assets/060321_paper.pdf){:target="_blank"}
+2021 | Aaron | [Towards understanding the effective use of antibiotics for sepsis]({{ site.baseurl }}/assets/052021_paper.pdf){:target="_blank"}
+2021 | Jonathan | [Early detection of sepsis utilizing deep learning on electronic health record event sequences]({{ site.baseurl }}/assets/050621_paper.pdf){:target="_blank"}
+2021 | Nancy | [Multimodal fusion with deep neural networks for leveraging CT imaging and electronic health record: a case‑study in pulmonary embolism detection]({{ site.baseurl }}/assets/042221_paper.pdf){:target="_blank"}
+2021 | Severine | [Directions for Explainable Knowledge-Enabled Systems]({{ site.baseurl }}/assets/040821_paper.pdf){:target="_blank"}
+2021 | Supreeth | [Assessment of Machine Learning to Estimate the Individual Treatment Effect of Corticosteroids in Septic Shock]({{ site.baseurl }}/assets/032421_paper.pdf){:target="_blank"}
+2021 | Aaron | [Improving the delivery of palliative care through predictive modeling and healthcare informatics]({{ site.baseurl }}/assets/030421_paper.pdf){:target="_blank"}
+2021 | - | [From Data to Optimal Decision Making: A Data-Driven, Probabilistic Machine Learning Approach to Decision Support for Patients With Sepsis]({{ site.baseurl }}/assets/021921_paper.pdf){:target="_blank"}
+2021 | Dr. Sally Baxter | [Development and validation of the ISARIC 4C Deterioration model for adults hospitalised with COVID-19: a prospective cohort study]({{ site.baseurl }}/assets/021121_paper.pdf){:target="_blank"}
+2021 | Supreeth | [Learning Representations of Missing Data for Predicting Patient Outcomes]({{ site.baseurl }}/assets/012821_paper01.pdf){:target="_blank"}
+2021 | Supreeth | [Second opinion needed: communicating uncertainty in medical machine learning]({{ site.baseurl }}/assets/011321_paper.pdf){:target="_blank"}
+2021 | Fatemeh | [Deep Learning for Improved Risk Prediction in Surgical Outcomes]({{ site.baseurl }}/assets/010721_paper.pdf){:target="_blank"}
+2021 | - | [Deep-learning-based real-time prediction of acute kidney injury outperforms human predictive performance]({{ site.baseurl }}/assets/102920_paper.pdf){:target="_blank"}
+2021 | Supreeth | [Controlling Level of Unconsciousness by Titrating Propofol with Deep Reinforcement Learning]({{ site.baseurl }}/assets/101520_paper.pdf){:target="_blank"}
+2021 | - | [Reinforcement Learning for Closed-Loop Propofol Anesthesia: A Study in Human Volunteers]({{ site.baseurl }}/assets/101520_paper_2.pdf){:target="_blank"}
+2020 | - | [Contrastive Learning of Medical Visual Representations from Paired Images and Text]({{ site.baseurl }}/assets/101520_paper_3.pdf){:target="_blank"}
+2020 | - || [A generalizable 29-mRNA neural-network classifier for acute bacterial and viral infections]({{ site.baseurl }}/assets/supreeth_2.pdf){:target="_blank"}
+2020 |  Supreeth | [Predictive modeling of bacterial infections and antibiotic therapy needs in critically ill adults]({{ site.baseurl }}/assets/supreeth_1.pdf){:target="_blank"}
+2020 |  Nancy | [Machine Learning Characterization of COPD Subtypes: Insights From the COPDGene Study]({{ site.baseurl }}/assets/nancy_1.pdf){:target="_blank"}
+2020 |  Nancy | [A multidimensional precision medicine approach identifies an autism subtype characterized by dyslipidemia]({{ site.baseurl }}/assets/nancy_2.pdf){:target="_blank"}
+2020 |  Nancy | [Predicting Severe Chronic Obstructive Pulmonary Disease Exacerbations. Developing a Population Surveillance Approach with Administrative Data]({{ site.baseurl }}/assets/nancy_3.pdf){:target="_blank"}
+2020 |  Nancy | [Machine Learning and Prediction of All-Cause Mortality in COPD]({{ site.baseurl }}/assets/nancy_4.pdf){:target="_blank"}
+2020 |  Heqi | [Explainable artificial intelligence model to predict acute critical illness from electronic health records]({{ site.baseurl }}/assets/heqi_1.pdf){:target="_blank"}
 04/13 | - | 1) [PROBAST: A Tool to Assess Risk of Bias and Applicability of Prediction Model Studies: Explanation and Elaboration]({{ site.baseurl }}/assets/041320_paper01.pdf){:target="_blank"} 2) [A Harmonized Data Quality Assessment Terminology and Framework for the Secondary Use of Electronic Health Record Data]({{ site.baseurl }}/assets/041320_paper02.pdf){:target="_blank"}
 09/12 | Supreeth | [On the interpretability of machine learningbased model for predicting hypertension]({{ site.baseurl }}/assets/091219_paper.pdf){:target="_blank"} Extra: [Blog post on LIME](https://homes.cs.washington.edu/~marcotcr/blog/lime/){:target="_blank"}, [Blog post on Shapley Values](https://towardsdatascience.com/one-feature-attribution-method-to-supposedly-rule-them-all-shapley-values-f3e04534983d){:target="_blank"}
 08/15 | Jejo Koola |  [A clinically applicable approach to continuous prediction of future acute kidney injury]({{ site.baseurl }}/assets/081519_paper.pdf){:target="_blank"} [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/081519_slides.pptx)
