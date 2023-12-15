@@ -34,15 +34,6 @@ Date | Time | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpo
 
 ---
 
-## SEPSIS Grand Rounds
-<a name="schedule2"></a>
-
-Date | Time    | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
---- | --- | --- | ---
-09/23 | 11am | Chris | [Control of Confounding and Reporting of Results in Causal Inference Studies]({{ site.baseurl }}/assets/0912182_paper.pdf){:target="_blank"} [Examples of DAG]({{ site.baseurl }}/assets/DAG_Sepsis_mortality.pdf){:target="_blank"} [Strobe Statement](https://www.strobe-statement.org/index.php?id=available-checklists){:target="_blank"} [Strobe Paper](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0040297){:target="_blank"}
-
----
-
 ## Join our JC
 <a name="join"></a>
 
@@ -133,6 +124,7 @@ Date | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'>
 2020 |  Nancy | [Predicting Severe Chronic Obstructive Pulmonary Disease Exacerbations. Developing a Population Surveillance Approach with Administrative Data]({{ site.baseurl }}/assets/nancy_3.pdf){:target="_blank"}
 2020 |  Nancy | [Machine Learning and Prediction of All-Cause Mortality in COPD]({{ site.baseurl }}/assets/nancy_4.pdf){:target="_blank"}
 2020 |  Heqi | [Explainable artificial intelligence model to predict acute critical illness from electronic health records]({{ site.baseurl }}/assets/heqi_1.pdf){:target="_blank"}
+2019 |  Chris | [Control of Confounding and Reporting of Results in Causal Inference Studies]({{ site.baseurl }}/assets/0912182_paper.pdf){:target="_blank"} [Examples of DAG]({{ site.baseurl }}/assets/DAG_Sepsis_mortality.pdf){:target="_blank"} [Strobe Statement](https://www.strobe-statement.org/index.php?id=available-checklists){:target="_blank"} [Strobe Paper](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0040297){:target="_blank"}
 04/13 | - | 1) [PROBAST: A Tool to Assess Risk of Bias and Applicability of Prediction Model Studies: Explanation and Elaboration]({{ site.baseurl }}/assets/041320_paper01.pdf){:target="_blank"} 2) [A Harmonized Data Quality Assessment Terminology and Framework for the Secondary Use of Electronic Health Record Data]({{ site.baseurl }}/assets/041320_paper02.pdf){:target="_blank"}
 09/12 | Supreeth | [On the interpretability of machine learningbased model for predicting hypertension]({{ site.baseurl }}/assets/091219_paper.pdf){:target="_blank"} Extra: [Blog post on LIME](https://homes.cs.washington.edu/~marcotcr/blog/lime/){:target="_blank"}, [Blog post on Shapley Values](https://towardsdatascience.com/one-feature-attribution-method-to-supposedly-rule-them-all-shapley-values-f3e04534983d){:target="_blank"}
 08/15 | Jejo Koola |  [A clinically applicable approach to continuous prediction of future acute kidney injury]({{ site.baseurl }}/assets/081519_paper.pdf){:target="_blank"} [<i class='fa fa-file-powerpoint-o'></i>]({{ site.baseurl }}/assets/081519_slides.pptx)
