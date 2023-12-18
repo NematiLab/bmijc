@@ -30,6 +30,7 @@ La Jolla, CA - 92093<br>
 
 Date | Time | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- |  ---
+01/03 | 02:00pm | Gabe |[Effect of Automated Real-Time Feedback on Early-Sepsis Care: A Pragmatic Clinical Trial]({{ site.baseurl }}/assets/010324_paper.pdf){:target="_blank"}
 01/12 | 10:00am | Mingjia |[Epistemic Neural Networks]({{ site.baseurl }}/assets/011224_paper.pdf){:target="_blank"}
 
 ---
