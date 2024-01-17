@@ -30,8 +30,10 @@ La Jolla, CA - 92093<br>
 
 Date | Time | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- |  ---
-01/03 | 02:00pm | Gabe |[Effect of Automated Real-Time Feedback on Early-Sepsis Care: A Pragmatic Clinical Trial]({{ site.baseurl }}/assets/010324_paper.pdf){:target="_blank"}
+02/16 | 10:00am | Nathan |[Diagnostic Errors in Hospitalized Adults Who Died or Were Transferred to Intensive Care]({{ site.baseurl }}/assets/021624_paper.pdf){:target="_blank"}
+01/26 | 10:00am | Aaron |[Generative Large Language Models are autonomous practitioners of evidence-based medicine]({{ site.baseurl }}/assets/012624_paper.pdf){:target="_blank"}
 01/12 | 10:00am | Mingjia |[Epistemic Neural Networks]({{ site.baseurl }}/assets/011224_paper.pdf){:target="_blank"}
+01/03 | 02:00pm | Gabe |[Effect of Automated Real-Time Feedback on Early-Sepsis Care: A Pragmatic Clinical Trial]({{ site.baseurl }}/assets/010324_paper.pdf){:target="_blank"}
 
 ---
 
