@@ -30,6 +30,8 @@ La Jolla, CA - 92093<br>
 
 Date | Time | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- |  ---
+04/19 | 10:00am | Josh |[Effectiveness of an Artificial Intelligence–Enabled Intervention for Detecting Clinical Deterioration]({{ site.baseurl }}/assets/041924_paper.pdf){:target="_blank"}
+02/22 | 10:00am | Gabe |[Reframing sepsis immunobiology for translation: towards informative subtyping and targeted immunomodulatory therapies]({{ site.baseurl }}/assets/022224_paper.pdf){:target="_blank"}
 02/16 | 10:00am | Nathan |[Diagnostic Errors in Hospitalized Adults Who Died or Were Transferred to Intensive Care]({{ site.baseurl }}/assets/021624_paper.pdf){:target="_blank"}
 02/09 | 10:00am | Rishi |[Large language models to identify social determinants of health in electronic health records]({{ site.baseurl }}/assets/020924_paper.pdf){:target="_blank"}
 01/26 | 10:00am | Aaron |[Generative Large Language Models are autonomous practitioners of evidence-based medicine]({{ site.baseurl }}/assets/012624_paper.pdf){:target="_blank"}
