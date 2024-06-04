@@ -29,8 +29,8 @@ La Jolla, CA - 92093<br>
 <a name="schedule1"></a>
 
 Date | Time | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
---- | --- | --- |  ---
 
+--- | --- | --- |  ---
 06/21 | 10:00am | Nathan |[Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents
 ]({{ site.baseurl }}/assets/062124_paper.pdf){:target="_blank"}
 06/07 | 10:00am | Zaid |[Large language models for preventing medication direction errors in online pharmacies]({{ site.baseurl }}/assets/060724_paper.pdf){:target="_blank"}
