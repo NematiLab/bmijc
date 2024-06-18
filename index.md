@@ -36,7 +36,6 @@ Date | Time | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpo
 06/07 | 10:00am | Zaid |[Large language models for preventing medication direction errors in online pharmacies]({{ site.baseurl }}/assets/060724_paper.pdf){:target="_blank"}
 
 05/31 | 10:00am | Rishi |[Towards Adapting Open-Source Large Language Models for Expert-Level Clinical Note Generation]({{ site.baseurl }}/assets/053124_paper.pdf){:target="_blank"}
-
 04/19 | 10:00am | Josh |[Effectiveness of an Artificial Intelligence–Enabled Intervention for Detecting Clinical Deterioration]({{ site.baseurl }}/assets/041924_paper.pdf){:target="_blank"}
 02/22 | 10:00am | Gabe |[Reframing sepsis immunobiology for translation: towards informative subtyping and targeted immunomodulatory therapies]({{ site.baseurl }}/assets/022224_paper.pdf){:target="_blank"}
 02/16 | 10:00am | Nathan |[Diagnostic Errors in Hospitalized Adults Who Died or Were Transferred to Intensive Care]({{ site.baseurl }}/assets/021624_paper.pdf){:target="_blank"}
