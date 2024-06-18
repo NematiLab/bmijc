@@ -30,6 +30,7 @@ La Jolla, CA - 92093<br>
 
 Date | Time | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- |  ---
+06/28 | 10:00am | Gabe |[Multisite Pragmatic Cluster-Randomized Controlled Trial of the CONCERN Early Warning System]({{ site.baseurl }}/assets/062824_paper.pdf){:target="_blank"}
 06/21 | 10:00am | Nathan |[Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents]({{ site.baseurl }}/assets/062124_paper.pdf){:target="_blank"}
 06/07 | 10:00am | Zaid |[Large language models for preventing medication direction errors in online pharmacies]({{ site.baseurl }}/assets/060724_paper.pdf){:target="_blank"}
 05/31 | 10:00am | Rishi |[Towards Adapting Open-Source Large Language Models for Expert-Level Clinical Note Generation]({{ site.baseurl }}/assets/053124_paper.pdf){:target="_blank"}
