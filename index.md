@@ -30,6 +30,10 @@ La Jolla, CA - 92093<br>
 
 Date | Time | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- |  ---
+08/23 | 10:00am | Nico |[Clinician Perception of a Machine Learning-Based Early Warning System Designed to Predict Severe Sepsis and Septic Shock]({{ site.baseurl }}/assets/082324_paper.pdf){:target="_blank"}
+08/16 | 10:00am | Joseph |[Large Language Models for Integrating Social Determinant of Health Data: A Case Study on Heart Failure 30-Day Readmission Prediction]({{ site.baseurl }}/assets/081624_paper.pdf){:target="_blank"}
+07/12 | 09:00am | Allison |[Real-World Implications of Updated Surviving Sepsis Campaign Antibiotic Timing Recommendations]({{ site.baseurl }}/assets/071224_paper.pdf){:target="_blank"}
+06/28 | 03:00pm | Yesel |[Knowledge-enhanced visual-language pre-training on chest radiology images]({{ site.baseurl }}/assets/062824_paper_2.pdf){:target="_blank"}
 06/28 | 10:00am | Gabe |[Multisite Pragmatic Cluster-Randomized Controlled Trial of the CONCERN Early Warning System]({{ site.baseurl }}/assets/062824_paper.pdf){:target="_blank"}
 06/21 | 10:00am | Nathan |[Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents]({{ site.baseurl }}/assets/062124_paper.pdf){:target="_blank"}
 06/07 | 10:00am | Zaid |[Large language models for preventing medication direction errors in online pharmacies]({{ site.baseurl }}/assets/060724_paper.pdf){:target="_blank"}
