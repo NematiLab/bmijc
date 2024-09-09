@@ -30,6 +30,8 @@ La Jolla, CA - 92093<br>
 
 Date | Time | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- |  ---
+09/20 | 10:30am | Dr. Jung |[Deep learning-based prediction of Clostridioides difficile infection caused by antibiotics using longitudinal electronic health records]({{ site.baseurl }}/assets/092024_paper.pdf){:target="_blank"}
+09/13 | 10:30am | Xiaolei |[Uncovering Knowledge Gaps in Radiology Report Generation Models through Knowledge Graphs]({{ site.baseurl }}/assets/091324_paper.pdf){:target="_blank"}
 08/23 | 10:00am | Nico |[Clinician Perception of a Machine Learning-Based Early Warning System Designed to Predict Severe Sepsis and Septic Shock]({{ site.baseurl }}/assets/082324_paper.pdf){:target="_blank"}
 08/16 | 10:00am | Joseph |[Large Language Models for Integrating Social Determinant of Health Data: A Case Study on Heart Failure 30-Day Readmission Prediction]({{ site.baseurl }}/assets/081624_paper.pdf){:target="_blank"}
 07/12 | 09:00am | Allison |[Real-World Implications of Updated Surviving Sepsis Campaign Antibiotic Timing Recommendations]({{ site.baseurl }}/assets/071224_paper.pdf){:target="_blank"}
