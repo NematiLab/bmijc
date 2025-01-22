@@ -31,8 +31,11 @@ La Jolla, CA - 92093<br>
 Date | Time | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | --- |  ---
 
-01/17/25 | 11:00 | Joseph |[ A generalist medical language model for disease diagnosis assistance ](/assets/011725.pdf){:target="_blank"}
-01/17/25 | 11:00 | Joseph |[A generalist medical language model for disease diagnosis assistance]({{ site.baseurl }}/assets/011725.pdf){:target="_blank"}
+03/21/25 |11:00 | Xin Liu| [](/assets/032125.pdf){:target="_blank"}
+03/14/25 |11:00 | Mike Schaekermann |[]([https://example.com/path/to/document.pdf](https://research.google/blog/advancing-amie-towards-specialist-care-and-real-world-validation/?linkId=12162787)){:target="_blank"}
+01/31/25 |11:00 | Ye Sel | [](/assets/013125.pdf){:target="_blank"}
+01/24/25 |11:00 | James | [Factors driving provider adoption of the TREWS machine learning-based early warning system and its effects on sepsis treatment timing](/assets/012425.pdf){:target="_blank"}
+01/17/25 | 11:00 | Joseph |[A generalist medical language model for disease diagnosis assistance ](/assets/011725.pdf){:target="_blank"}
 09/20 | 10:30am | Dr. Jung |[Deep learning-based prediction of Clostridioides difficile infection caused by antibiotics using longitudinal electronic health records]({{ site.baseurl }}/assets/092024_paper.pdf){:target="_blank"}
 09/13 | 10:30am | Xiaolei |[Uncovering Knowledge Gaps in Radiology Report Generation Models through Knowledge Graphs]({{ site.baseurl }}/assets/091324_paper.pdf){:target="_blank"}
 08/23 | 10:00am | Nico |[Clinician Perception of a Machine Learning-Based Early Warning System Designed to Predict Severe Sepsis and Septic Shock]({{ site.baseurl }}/assets/082324_paper.pdf){:target="_blank"}
