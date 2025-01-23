@@ -28,7 +28,7 @@ La Jolla, CA - 92093<br>
 ## Schedule & Papers
 <a name="schedule1"></a>
 
-Date | Presenter | PDFs of Papers & Slides ( <i class='fa fa-file-powerpoint-o'></i> )
+Date | Presenter | Time | PDFs/Link of Papers ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | ---
 03/21/25 |11:00 | Xin Liu| [google wearable FM]
 03/14/25 |11:00 | Mike Schaekermann |[AMIE](https://research.google/blog/advancing-amie-towards-specialist-care-and-real-world-validation/?linkId=12162787){:target="_blank"}
