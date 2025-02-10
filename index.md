@@ -32,7 +32,8 @@ Date | Presenter | Time | PDFs/Link of Papers ( <i class='fa fa-file-powerpoint-
 --- | --- | ---
 03/21/25 |11:00 | Xin Liu| [google wearable FM]
 03/14/25 |11:00 | Mike Schaekermann |[AMIE](https://research.google/blog/advancing-amie-towards-specialist-care-and-real-world-validation/?linkId=12162787){:target="_blank"}
-01/31/25 |11:00 | Ye Sel | [Multimodal]
+02/14/25 |11:00 | Sina | [Standardized patient profile review using large language models for case adjudication in observational research](https://www.nature.com/articles/s41746-025-01433-4){:target="_blank"}
+02/06/25 |11:00 | Ye Sel | [Multimodal](https://arxiv.org/abs/2303.00915){:target="_blank"}
 01/24/25 |11:00 | James | [Factors driving provider adoption of the TREWS machine learning-based early warning system and its effects on sepsis treatment timing](/assets/012425.pdf){:target="_blank"}
 01/17/25 | 11:00 | Joseph |[A generalist medical language model for disease diagnosis assistance ](/assets/011725.pdf){:target="_blank"}
 09/20 | 10:30am | Dr. Jung |[Deep learning-based prediction of Clostridioides difficile infection caused by antibiotics using longitudinal electronic health records]({{ site.baseurl }}/assets/092024_paper.pdf){:target="_blank"}
