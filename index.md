@@ -32,6 +32,7 @@ Date | Presenter | Time | PDFs/Link of Papers ( <i class='fa fa-file-powerpoint-
 --- | --- | ---
 03/21/25 |11:00 | Xin Liu| [google wearable FM]
 03/14/25 |11:00 | Mike Schaekermann |[AMIE](https://research.google/blog/advancing-amie-towards-specialist-care-and-real-world-validation/?linkId=12162787){:target="_blank"}
+02/28/25 |10:00 | Xiaolei | [Combining LLM decision and RL action selection to improve RL policy for adaptive interventions](https://arxiv.org/abs/2501.06980){:target="_blank"}
 02/28/25 |10:00 | Ben  | [Real world federated learning with a knowledge distilled transformer for cardiac CT imaging](https://www.nature.com/articles/s41746-025-01434-3){:target="_blank"}
 02/14/25 |11:00 | Sina | [Standardized patient profile review using large language models for case adjudication in observational research](https://www.nature.com/articles/s41746-025-01433-4){:target="_blank"}
 02/06/25 |11:00 | Ye Sel | [Multimodal](https://arxiv.org/abs/2303.00915){:target="_blank"}
