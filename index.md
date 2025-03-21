@@ -32,7 +32,7 @@ Date | Presenter | Time | PDFs/Link of Papers ( <i class='fa fa-file-powerpoint-
 --- | --- | ---
 
 03/28/25 |11:00 | Grace | [MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents](https://arxiv.org/html/2501.14654v2#bib.bib12){:target="_blank"}
-03/21/25 |11:00 | Xin Liu| [google wearable FM]
+03/21/25 |11:00 | Xin Liu| [google wearable FM](https://research.google/blog/advancing-personal-health-and-wellness-insights-with-ai/){:target="_blank"}
 03/14/25 |11:00 | Mike Schaekermann |[AMIE](https://research.google/blog/advancing-amie-towards-specialist-care-and-real-world-validation/?linkId=12162787){:target="_blank"}
 02/28/25 |10:00 | Ben  | [Real world federated learning with a knowledge distilled transformer for cardiac CT imaging](https://www.nature.com/articles/s41746-025-01434-3){:target="_blank"}
 02/14/25 |11:00 | Sina | [Standardized patient profile review using large language models for case adjudication in observational research](https://www.nature.com/articles/s41746-025-01433-4){:target="_blank"}
