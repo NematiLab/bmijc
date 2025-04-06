@@ -31,6 +31,9 @@ La Jolla, CA - 92093<br>
 Date | Presenter | Time | PDFs/Link of Papers ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | ---
 
+05/02/25 | 11:00| Zaid | [AI-guided precision parenteral nutrition for neonatal intensive care units](https://www.nature.com/articles/s41591-025-03601-1){:target="_blank"}
+04/18/25 | 11:00| Ghodsieh|
+04/11/25 | 11:00| Xiaolei|
 04/04/25 |11:00 | Grace | [MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents](https://arxiv.org/html/2501.14654v2#bib.bib12){:target="_blank"}
 03/21/25 |11:00 | Xin Liu| [google wearable FM](https://research.google/blog/advancing-personal-health-and-wellness-insights-with-ai/){:target="_blank"}
 03/14/25 |11:00 | Mike Schaekermann |[AMIE](https://research.google/blog/advancing-amie-towards-specialist-care-and-real-world-validation/?linkId=12162787){:target="_blank"}
