@@ -31,7 +31,7 @@ La Jolla, CA - 92093<br>
 Date | Presenter | Time | PDFs/Link of Papers ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | ---
 
-05/02/25 | 11:00| Zaid | [AI-guided precision parenteral nutrition for neonatal intensive care units](https://www.nature.com/articles/s41591-025-03601-1){:target="_blank"}
+05/09/25 | 11:00| Zaid | [AI-guided precision parenteral nutrition for neonatal intensive care units](https://www.nature.com/articles/s41591-025-03601-1){:target="_blank"}
 05/02/25 | 11:00| Aaron | [Zero-Shot Clinical Trial Patient Matching with LLMs] (https://ai.nejm.org/doi/full/10.1056/AIcs2400360){:target="_blank"}
 04/18/25 | 11:00| Ghodsieh|
 04/11/25 | 11:00| Xiaolei| [Combining LLM decision and RL action selection to improve RL policy for adaptive interventions](https://arxiv.org/pdf/2501.06980){:target="_blank"}
