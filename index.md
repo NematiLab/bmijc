@@ -32,7 +32,7 @@ Date | Presenter | Time | PDFs/Link of Papers ( <i class='fa fa-file-powerpoint-
 --- | --- | ---
 
 05/09/25 | 11:00| Zaid | [AI-guided precision parenteral nutrition for neonatal intensive care units](https://www.nature.com/articles/s41591-025-03601-1){:target="_blank"}
-05/02/25 | 11:00| Aaron | [Zero-Shot Clinical Trial Patient Matching with LLMs] (https://ai.nejm.org/doi/full/10.1056/AIcs2400360){:target="_blank"}
+05/02/25 | 11:00| Aaron | [Zero-Shot Clinical Trial Patient Matching with LLMs](https://ai.nejm.org/doi/full/10.1056/AIcs2400360){:target="_blank"}
 04/18/25 | 11:00| Ghodsieh|
 04/11/25 | 11:00| Xiaolei| [Combining LLM decision and RL action selection to improve RL policy for adaptive interventions](https://arxiv.org/pdf/2501.06980){:target="_blank"}
 04/04/25 |11:00 | Grace | [MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents](https://arxiv.org/html/2501.14654v2#bib.bib12){:target="_blank"}
