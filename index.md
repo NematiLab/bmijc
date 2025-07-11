@@ -30,7 +30,7 @@ La Jolla, CA - 92093<br>
 
 Date | Presenter | Time | PDFs/Link of Papers ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | ---
-
+07/03/25 | 11:30|| Dr Wardi| 
 05/23/25 | 11:00| Zaid | [AI-guided precision parenteral nutrition for neonatal intensive care units](https://www.nature.com/articles/s41591-025-03601-1){:target="_blank"}
 05/15/25 | 11:00| Aaron | [Zero-Shot Clinical Trial Patient Matching with LLMs](https://ai.nejm.org/doi/full/10.1056/AIcs2400360){:target="_blank"}
 04/25/25 | 11:00| Ghodsieh| [Real-time surveillance system for patient deterioration: a pragmatic cluster-randomized controlled trial](https://www.nature.com/articles/s41591-025-03609-7){:target="_blank"}
