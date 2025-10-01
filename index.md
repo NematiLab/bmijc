@@ -30,6 +30,8 @@ La Jolla, CA - 92093<br>
 
 Date | Presenter | Time | PDFs/Link of Papers ( <i class='fa fa-file-powerpoint-o'></i> )
 --- | --- | ---
+10/10/25 | 12:00 |  Nathan Tran  |  [V-JEPA2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/pdf/2506.09985){:target="_blank"}
+10/03/25 | 11:00 |  Yaman El-Jandali El-Rifai  |  [Generative Medical Event Models Improve With Scale](https://arxiv.org/abs/2508.12104){:target="_blank"}
 09/12/25 | 11:00 | Krishi Chawdra |  [Digital Biometric Measures in Long COVID: A Secondary Analysis of the STOP-PASC Randomized Clinical Trial](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837639){:target="_blank"}
 07/03/25 | 11:30 | Dr. Wardi |  [Multicenter target trial emulation to evaluate corticosteroids for sepsis stratified by predicted organ dysfunction trajectory](https://www.nature.com/articles/s41467-025-59643-z){:target="_blank"}
 05/23/25 | 11:00| Zaid | [AI-guided precision parenteral nutrition for neonatal intensive care units](https://www.nature.com/articles/s41591-025-03601-1){:target="_blank"}
